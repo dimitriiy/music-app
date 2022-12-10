@@ -1,0 +1,973 @@
+{
+  "name": "Shortparis",
+  "bio": "Formed in Saint Petersburg in 2012.\n\nTheir music is experiment-orientated. Live performances of the band are beyond the scope of your typical musical shows, they are more like performative practices of the contemporary art. Challenging the system of club venue shows, \"Shortparis\" actively performs at unprepared venues: abandoned industrial buildings, open grocery stores, etc.\n\nThe band poses itself in opposition to the current musical scene. Being a pioneer, the band sets its sight on finding original musical and artistic solutions.  <a href=\"https://www.last.fm/music/Shortparis\">Read more on Last.fm</a>",
+  "tags": {
+    "tag": [
+      { "name": "post-punk", "url": "https://www.last.fm/tag/post-punk" },
+      { "name": "experimental", "url": "https://www.last.fm/tag/experimental" },
+      { "name": "seen live", "url": "https://www.last.fm/tag/seen+live" },
+      { "name": "russian", "url": "https://www.last.fm/tag/russian" },
+      { "name": "electronic", "url": "https://www.last.fm/tag/electronic" }
+    ]
+  },
+  "albums": [
+    {
+      "artist": "Shortparis",
+      "mbid": "af7c28c2-29d7-4f53-9e6b-541d255fd91f",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/post-punk", "name": "post-punk" },
+          { "url": "https://www.last.fm/tag/2019", "name": "2019" },
+          { "url": "https://www.last.fm/tag/electronic", "name": "electronic" },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          { "url": "https://www.last.fm/tag/it", "name": "it" }
+        ]
+      },
+      "name": "Так закалялась сталь",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/05d3c5c4b76edae0954fb3365fca72f7.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/05d3c5c4b76edae0954fb3365fca72f7.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/05d3c5c4b76edae0954fb3365fca72f7.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/05d3c5c4b76edae0954fb3365fca72f7.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/05d3c5c4b76edae0954fb3365fca72f7.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/05d3c5c4b76edae0954fb3365fca72f7.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 275,
+            "url": "https://www.last.fm/music/Shortparis/%D0%A2%D0%B0%D0%BA+%D0%B7%D0%B0%D0%BA%D0%B0%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+%D1%81%D1%82%D0%B0%D0%BB%D1%8C/%D0%9D%D0%B5%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C",
+            "name": "Нелюбовь",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 275,
+            "url": "https://www.last.fm/music/Shortparis/%D0%A2%D0%B0%D0%BA+%D0%B7%D0%B0%D0%BA%D0%B0%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+%D1%81%D1%82%D0%B0%D0%BB%D1%8C/%D0%9F%D0%BE%D0%BB%D0%BE%D0%BC%D0%B0%D0%BB%D0%BE",
+            "name": "Поломало",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 272,
+            "url": "https://www.last.fm/music/Shortparis/%D0%A2%D0%B0%D0%BA+%D0%B7%D0%B0%D0%BA%D0%B0%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+%D1%81%D1%82%D0%B0%D0%BB%D1%8C/%D0%A1%D1%82%D1%8B%D0%B4",
+            "name": "Стыд",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 289,
+            "url": "https://www.last.fm/music/Shortparis/%D0%A2%D0%B0%D0%BA+%D0%B7%D0%B0%D0%BA%D0%B0%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+%D1%81%D1%82%D0%B0%D0%BB%D1%8C/%D0%A1%D1%82%D1%80%D0%B0%D1%88%D0%BD%D0%BE",
+            "name": "Страшно",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 286,
+            "url": "https://www.last.fm/music/Shortparis/%D0%A2%D0%B0%D0%BA+%D0%B7%D0%B0%D0%BA%D0%B0%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+%D1%81%D1%82%D0%B0%D0%BB%D1%8C/%D0%9E%D1%82%D0%B2%D0%B5%D1%87%D0%B0%D0%B9+%D0%B7%D0%B0+%D1%81%D0%BB%D0%BE%D0%B2%D0%B0",
+            "name": "Отвечай за слова",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 255,
+            "url": "https://www.last.fm/music/Shortparis/%D0%A2%D0%B0%D0%BA+%D0%B7%D0%B0%D0%BA%D0%B0%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+%D1%81%D1%82%D0%B0%D0%BB%D1%8C/%D0%9D%D0%BE%D0%B6%D0%B5%D0%B2%D0%BE%D0%B9",
+            "name": "Ножевой",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 212,
+            "url": "https://www.last.fm/music/Shortparis/%D0%A2%D0%B0%D0%BA+%D0%B7%D0%B0%D0%BA%D0%B0%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+%D1%81%D1%82%D0%B0%D0%BB%D1%8C/%D0%96%D0%B8%D0%B7%D0%BD%D1%8C+%D0%B7%D0%B0+%D1%86%D0%B0%D1%80%D1%8F",
+            "name": "Жизнь за царя",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 247,
+            "url": "https://www.last.fm/music/Shortparis/%D0%A2%D0%B0%D0%BA+%D0%B7%D0%B0%D0%BA%D0%B0%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+%D1%81%D1%82%D0%B0%D0%BB%D1%8C/%D0%A2%D0%B0%D0%BA+%D0%B7%D0%B0%D0%BA%D0%B0%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+%D1%81%D1%82%D0%B0%D0%BB%D1%8C",
+            "name": "Так закалялась сталь",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 310,
+            "url": "https://www.last.fm/music/Shortparis/%D0%A2%D0%B0%D0%BA+%D0%B7%D0%B0%D0%BA%D0%B0%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+%D1%81%D1%82%D0%B0%D0%BB%D1%8C/%D0%A2%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE+%D1%85%D1%83%D0%B6%D0%B5+%D1%81%D1%82%D0%B0%D0%BB%D0%BE",
+            "name": "Только хуже стало",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          }
+        ]
+      },
+      "listeners": "26593",
+      "playcount": "481804",
+      "url": "https://www.last.fm/music/Shortparis/%D0%A2%D0%B0%D0%BA+%D0%B7%D0%B0%D0%BA%D0%B0%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+%D1%81%D1%82%D0%B0%D0%BB%D1%8C",
+      "wiki": {}
+    },
+    {
+      "artist": "Shortparis",
+      "mbid": "69cacc4a-2512-4c55-a1ee-1f1f978f43c2",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/2017", "name": "2017" },
+          { "url": "https://www.last.fm/tag/cities", "name": "cities" },
+          {
+            "url": "https://www.last.fm/tag/novokuznetsk",
+            "name": "novokuznetsk"
+          },
+          { "url": "https://www.last.fm/tag/post-punk", "name": "post-punk" },
+          {
+            "url": "https://www.last.fm/tag/experimental",
+            "name": "experimental"
+          }
+        ]
+      },
+      "name": "Пасха",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/116021f140086e41f1c648809f37087e.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/116021f140086e41f1c648809f37087e.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/116021f140086e41f1c648809f37087e.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/116021f140086e41f1c648809f37087e.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/116021f140086e41f1c648809f37087e.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/116021f140086e41f1c648809f37087e.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 271,
+            "url": "https://www.last.fm/music/Shortparis/%D0%9F%D0%B0%D1%81%D1%85%D0%B0/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C",
+            "name": "Любовь",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 302,
+            "url": "https://www.last.fm/music/Shortparis/%D0%9F%D0%B0%D1%81%D1%85%D0%B0/%D0%A7%D1%82%D0%BE-%D1%82%D0%BE+%D0%BE%D1%81%D0%BE%D0%B1%D0%BE%D0%B5+%D0%B2%D0%BE+%D0%BC%D0%BD%D0%B5",
+            "name": "Что-то особое во мне",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 255,
+            "url": "https://www.last.fm/music/Shortparis/%D0%9F%D0%B0%D1%81%D1%85%D0%B0/%D0%A2%D1%83%D1%82%D1%83",
+            "name": "Туту",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 272,
+            "url": "https://www.last.fm/music/Shortparis/%D0%9F%D0%B0%D1%81%D1%85%D0%B0/%D0%9D%D0%BE%D0%B2%D0%BE%D0%BA%D1%83%D0%B7%D0%BD%D0%B5%D1%86%D0%BA",
+            "name": "Новокузнецк",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 250,
+            "url": "https://www.last.fm/music/Shortparis/%D0%9F%D0%B0%D1%81%D1%85%D0%B0/%D0%BF%D0%B0%D1%81%D1%85%D0%B0",
+            "name": "пасха",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 335,
+            "url": "https://www.last.fm/music/Shortparis/%D0%9F%D0%B0%D1%81%D1%85%D0%B0/%D0%A8%D1%83%D0%BC+%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9+%D0%A2%D0%BE%D0%BC%D0%B8+(%D0%9D%D0%BE%D0%B2%D0%BE%D0%BA%D1%83%D0%B7%D0%BD%D0%B5%D1%86%D0%BA+II)",
+            "name": "Шум великой Томи (Новокузнецк II)",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 222,
+            "url": "https://www.last.fm/music/Shortparis/%D0%9F%D0%B0%D1%81%D1%85%D0%B0/%D0%A0%D0%B0%D0%B7,+%D0%B4%D0%B2%D0%B0,+%D1%82%D1%80%D0%B8",
+            "name": "Раз, два, три",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 279,
+            "url": "https://www.last.fm/music/Shortparis/%D0%9F%D0%B0%D1%81%D1%85%D0%B0/%D0%92%D0%B5%D1%81%D0%B5%D0%BB%D0%BE",
+            "name": "Весело",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 483,
+            "url": "https://www.last.fm/music/Shortparis/%D0%9F%D0%B0%D1%81%D1%85%D0%B0/%D0%A1%D1%8B%D0%BD",
+            "name": "Сын",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 250,
+            "url": "https://www.last.fm/music/Shortparis/%D0%9F%D0%B0%D1%81%D1%85%D0%B0/Ma+Russie",
+            "name": "Ma Russie",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 278,
+            "url": "https://www.last.fm/music/Shortparis/%D0%9F%D0%B0%D1%81%D1%85%D0%B0/YQueen",
+            "name": "YQueen",
+            "@attr": { "rank": 11 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          }
+        ]
+      },
+      "listeners": "24337",
+      "playcount": "391290",
+      "url": "https://www.last.fm/music/Shortparis/%D0%9F%D0%B0%D1%81%D1%85%D0%B0",
+      "wiki": {}
+    },
+    {
+      "artist": "Shortparis",
+      "mbid": "3b9c3dba-79d3-4cf0-bfae-79fb0fdba6bb",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/2021", "name": "2021" },
+          {
+            "url": "https://www.last.fm/tag/%D0%B2%D0%BA%D0%BB%D1%8E%D1%87%D0%B8%D1%82%D1%8C+%D0%BD%D0%B0+%D0%BC%D0%BE%D0%B8%D1%85+%D0%BF%D0%BE%D0%BC%D0%B8%D0%BD%D0%BA%D0%B0%D1%85",
+            "name": "включить на моих поминках"
+          },
+          { "url": "https://www.last.fm/tag/3-5", "name": "3-5" },
+          { "url": "https://www.last.fm/tag/post-punk", "name": "post-punk" },
+          {
+            "url": "https://www.last.fm/tag/experimental",
+            "name": "experimental"
+          }
+        ]
+      },
+      "name": "Яблонный сад",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/8dd2a35735b47a0e34a473954a0c7f36.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/8dd2a35735b47a0e34a473954a0c7f36.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/8dd2a35735b47a0e34a473954a0c7f36.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/8dd2a35735b47a0e34a473954a0c7f36.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/8dd2a35735b47a0e34a473954a0c7f36.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/8dd2a35735b47a0e34a473954a0c7f36.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 195,
+            "url": "https://www.last.fm/music/Shortparis/%D0%AF%D0%B1%D0%BB%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9+%D1%81%D0%B0%D0%B4/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE",
+            "name": "Золото",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 231,
+            "url": "https://www.last.fm/music/Shortparis/%D0%AF%D0%B1%D0%BB%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9+%D1%81%D0%B0%D0%B4/%D0%A1%D0%BA%D1%83%D0%BA%D0%B0",
+            "name": "Скука",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 273,
+            "url": "https://www.last.fm/music/Shortparis/%D0%AF%D0%B1%D0%BB%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9+%D1%81%D0%B0%D0%B4/%D0%AF%D0%B1%D0%BB%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9+%D1%81%D0%B0%D0%B4",
+            "name": "Яблонный сад",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 282,
+            "url": "https://www.last.fm/music/Shortparis/%D0%AF%D0%B1%D0%BB%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9+%D1%81%D0%B0%D0%B4/%D0%9D%D0%B0%D1%88%D0%B5+%D0%B4%D0%B5%D0%BB%D0%BE+%D0%B7%D1%80%D0%B5%D0%BB%D0%BE",
+            "name": "Наше дело зрело",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 229,
+            "url": "https://www.last.fm/music/Shortparis/%D0%AF%D0%B1%D0%BB%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9+%D1%81%D0%B0%D0%B4/%D0%9A%D0%BE%D0%9A%D0%BE%D0%9A%D0%BE+%2F+%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B+%D0%BD%D0%B5+%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%D1%8F%D1%82+%D0%BD%D0%B0+%D1%83%D0%BB%D0%B8%D1%86%D1%8B",
+            "name": "КоКоКо / Структуры не выходят на улицы",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 269,
+            "url": "https://www.last.fm/music/Shortparis/%D0%AF%D0%B1%D0%BB%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9+%D1%81%D0%B0%D0%B4/%D0%93%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+            "name": "Говорит Москва",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 257,
+            "url": "https://www.last.fm/music/Shortparis/%D0%AF%D0%B1%D0%BB%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9+%D1%81%D0%B0%D0%B4/%D0%9F%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD%D0%B0",
+            "name": "Половина",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 215,
+            "url": "https://www.last.fm/music/Shortparis/%D0%AF%D0%B1%D0%BB%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9+%D1%81%D0%B0%D0%B4/%D0%94%D0%B2%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C",
+            "name": "Двадцать",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 269,
+            "url": "https://www.last.fm/music/Shortparis/%D0%AF%D0%B1%D0%BB%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9+%D1%81%D0%B0%D0%B4/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C+%D0%BC%D0%BE%D1%8F+%D0%B1%D1%83%D0%B4%D0%B5%D1%82+%D1%82%D1%83%D1%82.",
+            "name": "Любовь моя будет тут.",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 264,
+            "url": "https://www.last.fm/music/Shortparis/%D0%AF%D0%B1%D0%BB%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9+%D1%81%D0%B0%D0%B4/%D0%AD%D1%82%D0%B0+%D0%BD%D0%BE%D1%87%D1%8C+%D0%BD%D0%B5%D0%BF%D0%BE%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BC%D0%B0+(%D1%82%D1%80%D0%B8%D0%B1%D1%8C%D1%8E%D1%82+%C2%AB%D0%A1%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8+%D0%BC%D0%BE%D1%8E+%D1%80%D0%B5%D1%87%D1%8C+%D0%BD%D0%B0%D0%B2%D1%81%D0%B5%D0%B3%D0%B4%D0%B0%C2%BB)",
+            "name": "Эта ночь непоправима (трибьют «Сохрани мою речь навсегда»)",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 227,
+            "url": "https://www.last.fm/music/Shortparis/%D0%AF%D0%B1%D0%BB%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9+%D1%81%D0%B0%D0%B4/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE+II",
+            "name": "Золото II",
+            "@attr": { "rank": 11 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          }
+        ]
+      },
+      "listeners": "12928",
+      "playcount": "301633",
+      "url": "https://www.last.fm/music/Shortparis/%D0%AF%D0%B1%D0%BB%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9+%D1%81%D0%B0%D0%B4",
+      "wiki": {}
+    },
+    {
+      "artist": "Shortparis",
+      "mbid": "22d2cfa5-79bc-4c7d-add3-32717d526469",
+      "tags": "",
+      "name": "Страшно",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/b06d5edfd5a500883c39d365c537a645.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/b06d5edfd5a500883c39d365c537a645.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/b06d5edfd5a500883c39d365c537a645.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/b06d5edfd5a500883c39d365c537a645.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/b06d5edfd5a500883c39d365c537a645.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/b06d5edfd5a500883c39d365c537a645.jpg"
+        }
+      ],
+      "tracks": {
+        "track": {
+          "streamable": { "fulltrack": "0", "text": "0" },
+          "duration": 289,
+          "url": "https://www.last.fm/music/Shortparis/%D0%A1%D1%82%D1%80%D0%B0%D1%88%D0%BD%D0%BE/%D0%A1%D1%82%D1%80%D0%B0%D1%88%D0%BD%D0%BE",
+          "name": "Страшно",
+          "@attr": { "rank": 1 },
+          "artist": {
+            "url": "https://www.last.fm/music/Shortparis",
+            "name": "Shortparis",
+            "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+          }
+        }
+      },
+      "listeners": "11572",
+      "playcount": "86381",
+      "url": "https://www.last.fm/music/Shortparis/%D0%A1%D1%82%D1%80%D0%B0%D1%88%D0%BD%D0%BE",
+      "wiki": {}
+    },
+    { "wiki": {} },
+    {
+      "artist": "Shortparis",
+      "mbid": "4da5b4d6-11e5-4279-8a58-dd6761263ebd",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/fav", "name": "fav" },
+          { "url": "https://www.last.fm/tag/2013", "name": "2013" },
+          { "url": "https://www.last.fm/tag/cities", "name": "cities" },
+          { "url": "https://www.last.fm/tag/post-punk", "name": "post-punk" },
+          {
+            "url": "https://www.last.fm/tag/electronica",
+            "name": "electronica"
+          }
+        ]
+      },
+      "name": "Дочери",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/654208fbcc12fdce6adb02a5c29c6715.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/654208fbcc12fdce6adb02a5c29c6715.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/654208fbcc12fdce6adb02a5c29c6715.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/654208fbcc12fdce6adb02a5c29c6715.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/654208fbcc12fdce6adb02a5c29c6715.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/654208fbcc12fdce6adb02a5c29c6715.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 203,
+            "url": "https://www.last.fm/music/Shortparis/%D0%94%D0%BE%D1%87%D0%B5%D1%80%D0%B8/Pink+Whale",
+            "name": "Pink Whale",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 266,
+            "url": "https://www.last.fm/music/Shortparis/%D0%94%D0%BE%D1%87%D0%B5%D1%80%D0%B8/St.+Tropez",
+            "name": "St. Tropez",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 262,
+            "url": "https://www.last.fm/music/Shortparis/%D0%94%D0%BE%D1%87%D0%B5%D1%80%D0%B8/Ma+S%C5%93ur+(Mal+%C3%A0+la+t%C3%AAte)",
+            "name": "Ma Sœur (Mal à la tête)",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 277,
+            "url": "https://www.last.fm/music/Shortparis/%D0%94%D0%BE%D1%87%D0%B5%D1%80%D0%B8/Amsterdam",
+            "name": "Amsterdam",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 290,
+            "url": "https://www.last.fm/music/Shortparis/%D0%94%D0%BE%D1%87%D0%B5%D1%80%D0%B8/White+Skin+(A+version)",
+            "name": "White Skin (A version)",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 180,
+            "url": "https://www.last.fm/music/Shortparis/%D0%94%D0%BE%D1%87%D0%B5%D1%80%D0%B8/A+Hero",
+            "name": "A Hero",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 195,
+            "url": "https://www.last.fm/music/Shortparis/%D0%94%D0%BE%D1%87%D0%B5%D1%80%D0%B8/Family%27s+white+silk",
+            "name": "Family's white silk",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 229,
+            "url": "https://www.last.fm/music/Shortparis/%D0%94%D0%BE%D1%87%D0%B5%D1%80%D0%B8/Your+Queen",
+            "name": "Your Queen",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 255,
+            "url": "https://www.last.fm/music/Shortparis/%D0%94%D0%BE%D1%87%D0%B5%D1%80%D0%B8/Requiem",
+            "name": "Requiem",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 287,
+            "url": "https://www.last.fm/music/Shortparis/%D0%94%D0%BE%D1%87%D0%B5%D1%80%D0%B8/White+Skin+(B+version)",
+            "name": "White Skin (B version)",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          }
+        ]
+      },
+      "listeners": "7508",
+      "playcount": "120337",
+      "url": "https://www.last.fm/music/Shortparis/%D0%94%D0%BE%D1%87%D0%B5%D1%80%D0%B8",
+      "wiki": {}
+    },
+    {
+      "artist": "Shortparis",
+      "mbid": "1820dac5-83a3-4b02-99d2-40bcb21d5a5b",
+      "tags": "",
+      "name": "Стыд",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/b94934055f3e3354622ff9d337e34c39.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/b94934055f3e3354622ff9d337e34c39.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/b94934055f3e3354622ff9d337e34c39.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/b94934055f3e3354622ff9d337e34c39.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/b94934055f3e3354622ff9d337e34c39.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/b94934055f3e3354622ff9d337e34c39.jpg"
+        }
+      ],
+      "tracks": {
+        "track": {
+          "streamable": { "fulltrack": "0", "text": "0" },
+          "duration": 272,
+          "url": "https://www.last.fm/music/Shortparis/%D0%A1%D1%82%D1%8B%D0%B4/%D0%A1%D1%82%D1%8B%D0%B4",
+          "name": "Стыд",
+          "@attr": { "rank": 1 },
+          "artist": {
+            "url": "https://www.last.fm/music/Shortparis",
+            "name": "Shortparis",
+            "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+          }
+        }
+      },
+      "listeners": "5993",
+      "playcount": "34075",
+      "url": "https://www.last.fm/music/Shortparis/%D0%A1%D1%82%D1%8B%D0%B4",
+      "wiki": {}
+    },
+    {
+      "artist": "Shortparis",
+      "listeners": "5772",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/a318950b38eea0e87152be6d76fb9ddb.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/a318950b38eea0e87152be6d76fb9ddb.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/a318950b38eea0e87152be6d76fb9ddb.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/a318950b38eea0e87152be6d76fb9ddb.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/a318950b38eea0e87152be6d76fb9ddb.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/a318950b38eea0e87152be6d76fb9ddb.jpg"
+        }
+      ],
+      "mbid": "",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/post-punk", "name": "post-punk" },
+          {
+            "url": "https://www.last.fm/tag/experimental",
+            "name": "experimental"
+          },
+          { "url": "https://www.last.fm/tag/russian", "name": "russian" },
+          { "url": "https://www.last.fm/tag/electronic", "name": "electronic" },
+          { "url": "https://www.last.fm/tag/avant-pop", "name": "avant-pop" }
+        ]
+      },
+      "name": "КоКоКо / Cтруктуры не выходят на улицы",
+      "playcount": "30828",
+      "url": "https://www.last.fm/music/Shortparis/%D0%9A%D0%BE%D0%9A%D0%BE%D0%9A%D0%BE+%2F+C%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D1%8B+%D0%BD%D0%B5+%D0%B2%D1%8B%D1%85%D0%BE%D0%B4%D1%8F%D1%82+%D0%BD%D0%B0+%D1%83%D0%BB%D0%B8%D1%86%D1%8B",
+      "wiki": {}
+    },
+    {
+      "artist": "Shortparis",
+      "listeners": "4423",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/843780f804fd0323b7a7a7477059dd0f.png"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/843780f804fd0323b7a7a7477059dd0f.png"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/843780f804fd0323b7a7a7477059dd0f.png"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/843780f804fd0323b7a7a7477059dd0f.png"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/843780f804fd0323b7a7a7477059dd0f.png"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/843780f804fd0323b7a7a7477059dd0f.png"
+        }
+      ],
+      "mbid": "",
+      "tags": "",
+      "name": "Говорит Москва",
+      "playcount": "22430",
+      "url": "https://www.last.fm/music/Shortparis/%D0%93%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+      "wiki": {}
+    },
+    {
+      "artist": "Shortparis",
+      "mbid": "6fb91cf3-5847-4011-81d4-929f0a7b8724",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/post-punk", "name": "post-punk" },
+          {
+            "url": "https://www.last.fm/tag/experimental",
+            "name": "experimental"
+          },
+          { "url": "https://www.last.fm/tag/russian", "name": "russian" },
+          { "url": "https://www.last.fm/tag/electronic", "name": "electronic" },
+          { "url": "https://www.last.fm/tag/avant-pop", "name": "avant-pop" }
+        ]
+      },
+      "name": "Туту",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/6bbdaaebde3787a41590cd0ddb3c3628.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/6bbdaaebde3787a41590cd0ddb3c3628.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/6bbdaaebde3787a41590cd0ddb3c3628.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/6bbdaaebde3787a41590cd0ddb3c3628.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/6bbdaaebde3787a41590cd0ddb3c3628.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/6bbdaaebde3787a41590cd0ddb3c3628.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 255,
+            "url": "https://www.last.fm/music/Shortparis/%D0%A2%D1%83%D1%82%D1%83/%D0%A2%D1%83%D1%82%D1%83",
+            "name": "Туту",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 260,
+            "url": "https://www.last.fm/music/Shortparis/%D0%A2%D1%83%D1%82%D1%83/%D0%94%D0%BE%D0%BC%D0%B0+%D0%BD%D0%B5+%D1%81%D0%B8%D0%B4%D0%B8+(%D0%A0%D1%83%D0%BA%D0%B8+%D0%92%D0%B2%D0%B5%D1%80%D1%85+cover)",
+            "name": "Дома не сиди (Руки Вверх cover)",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Shortparis",
+              "name": "Shortparis",
+              "mbid": "e1f95266-0e43-4e25-9415-0596cb711d7b"
+            }
+          }
+        ]
+      },
+      "listeners": "2607",
+      "playcount": "13505",
+      "url": "https://www.last.fm/music/Shortparis/%D0%A2%D1%83%D1%82%D1%83",
+      "wiki": {}
+    }
+  ]
+}

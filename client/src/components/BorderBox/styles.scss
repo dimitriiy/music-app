@@ -1,0 +1,36 @@
+.box {
+  position: relative;
+  box-shadow: 0 0 1px 1px #fff;
+  border-radius: 4px;
+
+  &--active {
+    .extra-border {
+      transform: rotate(0deg);
+    }
+  }
+}
+
+.border {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 4px;
+
+}
+
+.extra-border {
+  transition: 0.2s all ease-in-out;
+}
+
+.outer-border {
+  @extend .border;
+  border: 1px solid #fff;
+  transform: rotate(1.5deg);
+}
+.inner-border {
+  @extend .border;
+  border: 1px solid #fff;
+  transform: rotate(-1.5deg);
+}

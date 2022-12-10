@@ -1,0 +1,1889 @@
+{
+  "name": "Linkin Park",
+  "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
+  "bio": "Linkin Park is an American rock band from Agoura Hills, California. The band's current lineup comprises vocalist/keyboardist/rhythm guitarist Mike Shinoda, lead guitarist Brad Delson, bassist Dave Farrell, DJ/keyboardist Joe Hahn, and drummer Rob Bourdon, all of whom are founding members. Vocalists Mark Wakefield and Chester Bennington and bassist Kyle Christner are former members of the band.\n\nFormed in 1996, Linkin Park rose to international fame with their debut studio album <a href=\"https://www.last.fm/music/Linkin+Park\">Read more on Last.fm</a>",
+  "tags": {
+    "tag": [
+      { "name": "rock", "url": "https://www.last.fm/tag/rock" },
+      { "name": "Nu Metal", "url": "https://www.last.fm/tag/Nu+Metal" },
+      {
+        "name": "alternative rock",
+        "url": "https://www.last.fm/tag/alternative+rock"
+      },
+      { "name": "alternative", "url": "https://www.last.fm/tag/alternative" },
+      { "name": "metal", "url": "https://www.last.fm/tag/metal" }
+    ]
+  },
+  "albums": [
+    {
+      "artist": "Linkin Park",
+      "mbid": "01e51f7c-4b95-4ae3-a707-181b74b1ebab",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/nu+metal", "name": "nu metal" },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          {
+            "url": "https://www.last.fm/tag/alternative+rock",
+            "name": "alternative rock"
+          },
+          {
+            "url": "https://www.last.fm/tag/linkin+park",
+            "name": "linkin park"
+          },
+          {
+            "url": "https://www.last.fm/tag/alternative",
+            "name": "alternative"
+          }
+        ]
+      },
+      "playcount": "62011212",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/b636ff6f39f8dd435c89fc7bd2e002f8.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/b636ff6f39f8dd435c89fc7bd2e002f8.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/b636ff6f39f8dd435c89fc7bd2e002f8.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/b636ff6f39f8dd435c89fc7bd2e002f8.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/b636ff6f39f8dd435c89fc7bd2e002f8.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/b636ff6f39f8dd435c89fc7bd2e002f8.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Meteora/Foreword",
+            "name": "Foreword",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Meteora/Don%27t+Stay",
+            "name": "Don't Stay",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 215,
+            "url": "https://www.last.fm/music/Linkin+Park/Meteora/Somewhere+I+Belong",
+            "name": "Somewhere I Belong",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 228,
+            "url": "https://www.last.fm/music/Linkin+Park/Meteora/Lying+from+You",
+            "name": "Lying from You",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 190,
+            "url": "https://www.last.fm/music/Linkin+Park/Meteora/Hit+the+Floor",
+            "name": "Hit the Floor",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 211,
+            "url": "https://www.last.fm/music/Linkin+Park/Meteora/Easier+to+Run",
+            "name": "Easier to Run",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Meteora/Faint",
+            "name": "Faint",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Meteora/Figure.09",
+            "name": "Figure.09",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 240,
+            "url": "https://www.last.fm/music/Linkin+Park/Meteora/Breaking+the+Habit",
+            "name": "Breaking the Habit",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Meteora/From+the+Inside",
+            "name": "From the Inside",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Meteora/Nobody%27s+Listening",
+            "name": "Nobody's Listening",
+            "@attr": { "rank": 11 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Meteora/Session",
+            "name": "Session",
+            "@attr": { "rank": 12 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Meteora/Numb",
+            "name": "Numb",
+            "@attr": { "rank": 13 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Linkin+Park/Meteora",
+      "name": "Meteora",
+      "listeners": "2405548",
+      "wiki": {
+        "published": "01 Jan 2013, 15:08",
+        "summary": "Meteora is the second studio album by American rock band Linkin Park, released on March 25, 2003. Following the collaboration album Reanimation which featured remixes of their debut album Hybrid Theory. Linkin Park released singles from Meteora for over a year, including \"Somewhere I Belong\", \"Faint\", \"Lying from You\", \"From the Inside\", \"Breaking the Habit\" and \"Numb\". It is the most successful album in the history of the Modern Rock Tracks chart, a chart that specializes in radio play of alternative rock songs. \"Numb\" was the biggest song of the year on the chart. The album has sold over 5 <a href=\"https://www.last.fm/music/Linkin+Park/Meteora\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Linkin Park",
+      "mbid": "04b8953c-969a-423a-8847-ccf78b83d013",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/nu+metal", "name": "nu metal" },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          {
+            "url": "https://www.last.fm/tag/alternative+rock",
+            "name": "alternative rock"
+          },
+          {
+            "url": "https://www.last.fm/tag/alternative",
+            "name": "alternative"
+          },
+          {
+            "url": "https://www.last.fm/tag/linkin+park",
+            "name": "linkin park"
+          }
+        ]
+      },
+      "playcount": "52912213",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/b88840f7d608082a85588b2efbbd2d21.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/b88840f7d608082a85588b2efbbd2d21.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/b88840f7d608082a85588b2efbbd2d21.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/b88840f7d608082a85588b2efbbd2d21.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/b88840f7d608082a85588b2efbbd2d21.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/b88840f7d608082a85588b2efbbd2d21.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 193,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory/Papercut",
+            "name": "Papercut",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 212,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory/Now+I+See",
+            "name": "Now I See",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 209,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory/Points+of+Authority",
+            "name": "Points of Authority",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 163,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory/Plaster",
+            "name": "Plaster",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 350,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory/Crawling",
+            "name": "Crawling",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 222,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory/Runaway",
+            "name": "Runaway",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 214,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory/The+Untitled",
+            "name": "The Untitled",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 198,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory/By+Myself",
+            "name": "By Myself",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 156,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory/The+Cure",
+            "name": "The Cure",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 195,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory/The+Cure+For+Mr.+Hahn%27s+Itch",
+            "name": "The Cure For Mr. Hahn's Itch",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 229,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory/A+Place+for+My+Head",
+            "name": "A Place for My Head",
+            "@attr": { "rank": 11 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 381,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory/Forgotten",
+            "name": "Forgotten",
+            "@attr": { "rank": 12 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory",
+      "name": "Hybrid Theory",
+      "listeners": "1983190",
+      "wiki": {
+        "published": "08 Aug 2009, 21:22",
+        "summary": "Hybrid Theory is the debut album by the American rock band Linkin Park, released on October 24, 2000 through Warner Bros. Records. The album was a huge commercial success, selling over 10 million units in the United States alone and peaking at number two on the Billboard 200 while also reaching high positions on other charts worldwide, despite receiving mixed reviews from publications. It has also sold 24 million copies worldwide as of 2009, including over 10 million in the U.S. which makes it the band's best-selling album, the second best-selling album of the 21st century so far, and the <a href=\"https://www.last.fm/music/Linkin+Park/Hybrid+Theory\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Linkin Park",
+      "mbid": "012514b5-dc0f-4418-b67a-c6a8d3af4096",
+      "tags": {
+        "tag": [
+          {
+            "url": "https://www.last.fm/tag/alternative+rock",
+            "name": "alternative rock"
+          },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          { "url": "https://www.last.fm/tag/nu+metal", "name": "nu metal" },
+          {
+            "url": "https://www.last.fm/tag/alternative",
+            "name": "alternative"
+          },
+          {
+            "url": "https://www.last.fm/tag/linkin+park",
+            "name": "linkin park"
+          }
+        ]
+      },
+      "playcount": "50719759",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/185a38ca7368d2c9ad9cb9ea95ae05f4.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/185a38ca7368d2c9ad9cb9ea95ae05f4.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/185a38ca7368d2c9ad9cb9ea95ae05f4.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/185a38ca7368d2c9ad9cb9ea95ae05f4.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/185a38ca7368d2c9ad9cb9ea95ae05f4.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/185a38ca7368d2c9ad9cb9ea95ae05f4.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Minutes+to+Midnight/Wake",
+            "name": "Wake",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 196,
+            "url": "https://www.last.fm/music/Linkin+Park/Minutes+to+Midnight/Given+Up",
+            "name": "Given Up",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Minutes+to+Midnight/Leave+Out+All+the+Rest",
+            "name": "Leave Out All the Rest",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Minutes+to+Midnight/Bleed+It+Out",
+            "name": "Bleed It Out",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Minutes+to+Midnight/Shadow+of+the+Day",
+            "name": "Shadow of the Day",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 219,
+            "url": "https://www.last.fm/music/Linkin+Park/Minutes+to+Midnight/What+I%27ve+Done",
+            "name": "What I've Done",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 233,
+            "url": "https://www.last.fm/music/Linkin+Park/Minutes+to+Midnight/Hands+Held+High",
+            "name": "Hands Held High",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 305,
+            "url": "https://www.last.fm/music/Linkin+Park/Minutes+to+Midnight/No+More+Sorrow",
+            "name": "No More Sorrow",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Minutes+to+Midnight/Valentine%27s+Day",
+            "name": "Valentine's Day",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Minutes+to+Midnight/In+Between",
+            "name": "In Between",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 223,
+            "url": "https://www.last.fm/music/Linkin+Park/Minutes+to+Midnight/In+Pieces",
+            "name": "In Pieces",
+            "@attr": { "rank": 11 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Minutes+to+Midnight/The+Little+Things+Give+You+Away",
+            "name": "The Little Things Give You Away",
+            "@attr": { "rank": 12 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Linkin+Park/Minutes+to+Midnight",
+      "name": "Minutes to Midnight",
+      "listeners": "1833330",
+      "wiki": {
+        "published": "04 Apr 2011, 17:48",
+        "summary": "Minutes to Midnight is the third studio album by American rock band Linkin Park, released on May 14, 2007 through Warner Bros. Records This album showed some change of genre of linkin park from nu metal to other experimental genres. The album has been certified double platinum in the United States and shipped over 3.3 million copies worldwide in its first four weeks of release. It is their first studio album with a Parental Advisory label. The album debuted at number one in the United States and in 15 other countries, including the United Kingdom and Canada, around the world. <a href=\"https://www.last.fm/music/Linkin+Park/Minutes+to+Midnight\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Linkin Park",
+      "mbid": "03fd5af1-c3b8-455a-8b31-adbc50f5a7f7",
+      "tags": {
+        "tag": [
+          {
+            "url": "https://www.last.fm/tag/alternative+rock",
+            "name": "alternative rock"
+          },
+          { "url": "https://www.last.fm/tag/2012", "name": "2012" },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          { "url": "https://www.last.fm/tag/electronic", "name": "electronic" },
+          {
+            "url": "https://www.last.fm/tag/alternative",
+            "name": "alternative"
+          }
+        ]
+      },
+      "playcount": "22096121",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/5dda2ee492c00966c166665454e10c2d.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/5dda2ee492c00966c166665454e10c2d.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/5dda2ee492c00966c166665454e10c2d.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/5dda2ee492c00966c166665454e10c2d.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/5dda2ee492c00966c166665454e10c2d.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/5dda2ee492c00966c166665454e10c2d.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Living+Things/Lost+in+the+Echo",
+            "name": "Lost in the Echo",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Living+Things/In+My+Remains",
+            "name": "In My Remains",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Living+Things/Burn+It+Down",
+            "name": "Burn It Down",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Living+Things/Lies+Greed+Misery",
+            "name": "Lies Greed Misery",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Living+Things/I%27ll+Be+Gone",
+            "name": "I'll Be Gone",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Living+Things/Castle+of+Glass",
+            "name": "Castle of Glass",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Living+Things/Victimized",
+            "name": "Victimized",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Living+Things/Roads+Untraveled",
+            "name": "Roads Untraveled",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Living+Things/Skin+to+Bone",
+            "name": "Skin to Bone",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Living+Things/Until+It+Breaks",
+            "name": "Until It Breaks",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Living+Things/Tinfoil",
+            "name": "Tinfoil",
+            "@attr": { "rank": 11 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/Living+Things/Powerless",
+            "name": "Powerless",
+            "@attr": { "rank": 12 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Linkin+Park/Living+Things",
+      "name": "Living Things",
+      "listeners": "645823",
+      "wiki": {
+        "published": "07 Jul 2013, 01:09",
+        "summary": "Living Things is the fifth studio album by the American rock band Linkin Park. It was released under Warner Bros. Records and Machine Shop Recordings on June 20, 2012, in Japan, and throughout the rest of the world during the following week. Production was handled by vocalist Mike Shinoda and Rick Rubin, who both co-produced the band's previous two studio albums Minutes to Midnight (2007) and A Thousand Suns (2010). The band states that Living Things combines elements from their previous four studio albums to create a new sound. They stated they finally felt they were in \"familiar territory\" and <a href=\"https://www.last.fm/music/Linkin+Park/Living+Things\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Linkin Park",
+      "listeners": "633929",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/01aa4556b6916185ecd890dad8a42f47.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/01aa4556b6916185ecd890dad8a42f47.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/01aa4556b6916185ecd890dad8a42f47.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/01aa4556b6916185ecd890dad8a42f47.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/01aa4556b6916185ecd890dad8a42f47.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/01aa4556b6916185ecd890dad8a42f47.jpg"
+        }
+      ],
+      "mbid": "",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/2000", "name": "2000" },
+          { "url": "https://www.last.fm/tag/metal", "name": "metal" },
+          {
+            "url": "https://www.last.fm/tag/alternative+metal",
+            "name": "alternative metal"
+          },
+          {
+            "url": "https://www.last.fm/tag/alternative+rock",
+            "name": "alternative rock"
+          },
+          { "url": "https://www.last.fm/tag/rap+rock", "name": "rap rock" }
+        ]
+      },
+      "name": "Hybrid Theory (Bonus Edition)",
+      "playcount": "13168287",
+      "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory+(Bonus+Edition)",
+      "wiki": {}
+    },
+    {
+      "artist": "Linkin Park",
+      "mbid": "020a64ab-1011-44be-aaa7-a8db4d9c81dd",
+      "tags": {
+        "tag": [
+          {
+            "url": "https://www.last.fm/tag/alternative+rock",
+            "name": "alternative rock"
+          },
+          { "url": "https://www.last.fm/tag/electronic", "name": "electronic" },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          { "url": "https://www.last.fm/tag/2010", "name": "2010" },
+          {
+            "url": "https://www.last.fm/tag/alternative",
+            "name": "alternative"
+          }
+        ]
+      },
+      "playcount": "21708511",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/2174f7b60b8b4db6b7e5c0a402aee3ef.png"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/2174f7b60b8b4db6b7e5c0a402aee3ef.png"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/2174f7b60b8b4db6b7e5c0a402aee3ef.png"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/2174f7b60b8b4db6b7e5c0a402aee3ef.png"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/2174f7b60b8b4db6b7e5c0a402aee3ef.png"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/2174f7b60b8b4db6b7e5c0a402aee3ef.png"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/A+Thousand+Suns/The+Requiem",
+            "name": "The Requiem",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/A+Thousand+Suns/The+Radiance",
+            "name": "The Radiance",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/A+Thousand+Suns/Burning+in+the+Skies",
+            "name": "Burning in the Skies",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/A+Thousand+Suns/Empty+Spaces",
+            "name": "Empty Spaces",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/A+Thousand+Suns/When+They+Come+for+Me",
+            "name": "When They Come for Me",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/A+Thousand+Suns/Robot+Boy",
+            "name": "Robot Boy",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/A+Thousand+Suns/Jornada+del+Muerto",
+            "name": "Jornada del Muerto",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/A+Thousand+Suns/Waiting+for+the+End",
+            "name": "Waiting for the End",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/A+Thousand+Suns/Blackout",
+            "name": "Blackout",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/A+Thousand+Suns/Wretches+and+Kings",
+            "name": "Wretches and Kings",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/A+Thousand+Suns/Wisdom,+Justice,+and+Love",
+            "name": "Wisdom, Justice, and Love",
+            "@attr": { "rank": 11 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/A+Thousand+Suns/Iridescent",
+            "name": "Iridescent",
+            "@attr": { "rank": 12 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/A+Thousand+Suns/Fallout",
+            "name": "Fallout",
+            "@attr": { "rank": 13 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/A+Thousand+Suns/The+Catalyst",
+            "name": "The Catalyst",
+            "@attr": { "rank": 14 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/A+Thousand+Suns/The+Messenger",
+            "name": "The Messenger",
+            "@attr": { "rank": 15 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Linkin+Park/A+Thousand+Suns",
+      "name": "A Thousand Suns",
+      "listeners": "515204",
+      "wiki": {
+        "published": "06 Jun 2014, 21:46",
+        "summary": "A Thousand Suns is the fourth studio album by American rock band Linkin Park. It was released on September 8, 2010, under Warner Bros. Records. The album was written by the band, while production was handled by Linkin Park vocalist Mike Shinoda and Rick Rubin who previously worked together to produce the band's third studio album Minutes to Midnight (2007). Recording sessions for the album took place at NRG Recording Studios in North Hollywood, California from 2008 until early 2010. A Thousand Suns is a multi-concept album dealing with human fears such as nuclear warfare. The band has acknowledged that <a href=\"https://www.last.fm/music/Linkin+Park/A+Thousand+Suns\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Linkin Park",
+      "mbid": "23c399fd-bd52-48e9-a9c6-61ea4df91ccb",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/nu+metal", "name": "nu metal" },
+          {
+            "url": "https://www.last.fm/tag/alternative+rock",
+            "name": "alternative rock"
+          },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          { "url": "https://www.last.fm/tag/remix", "name": "remix" },
+          {
+            "url": "https://www.last.fm/tag/linkin+park",
+            "name": "linkin park"
+          }
+        ]
+      },
+      "playcount": "13720960",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/7135e01b8a5e3179851d660d81a09c48.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/7135e01b8a5e3179851d660d81a09c48.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/7135e01b8a5e3179851d660d81a09c48.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/7135e01b8a5e3179851d660d81a09c48.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/7135e01b8a5e3179851d660d81a09c48.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/7135e01b8a5e3179851d660d81a09c48.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 67,
+            "url": "https://www.last.fm/music/Linkin+Park/Reanimation/Opening",
+            "name": "Opening",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 225,
+            "url": "https://www.last.fm/music/Linkin+Park/Reanimation/Pts.of.Athrty",
+            "name": "Pts.of.Athrty",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 239,
+            "url": "https://www.last.fm/music/Linkin+Park/Reanimation/Enth+E+Nd",
+            "name": "Enth E Nd",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 23,
+            "url": "https://www.last.fm/music/Linkin+Park/Reanimation/%5BChali%5D",
+            "name": "[Chali]",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 212,
+            "url": "https://www.last.fm/music/Linkin+Park/Reanimation/Frgt%2F10",
+            "name": "Frgt/10",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 277,
+            "url": "https://www.last.fm/music/Linkin+Park/Reanimation/P5hng+Me+A*wy",
+            "name": "P5hng Me A*wy",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 260,
+            "url": "https://www.last.fm/music/Linkin+Park/Reanimation/Plc.4+Mie+H%C3%A6d",
+            "name": "Plc.4 Mie Hæd",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 109,
+            "url": "https://www.last.fm/music/Linkin+Park/Reanimation/X-Ecutioner+Style",
+            "name": "X-Ecutioner Style",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 210,
+            "url": "https://www.last.fm/music/Linkin+Park/Reanimation/H!+Vltg3",
+            "name": "H! Vltg3",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 21,
+            "url": "https://www.last.fm/music/Linkin+Park/Reanimation/Riff+Raff",
+            "name": "Riff Raff",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 252,
+            "url": "https://www.last.fm/music/Linkin+Park/Reanimation/Wth%3EYou",
+            "name": "Wth>You",
+            "@attr": { "rank": 11 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 29,
+            "url": "https://www.last.fm/music/Linkin+Park/Reanimation/Ntr%5CMssion",
+            "name": "Ntr\\Mssion",
+            "@attr": { "rank": 12 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 206,
+            "url": "https://www.last.fm/music/Linkin+Park/Reanimation/Ppr:kut",
+            "name": "Ppr:kut",
+            "@attr": { "rank": 13 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 193,
+            "url": "https://www.last.fm/music/Linkin+Park/Reanimation/Rnw@y",
+            "name": "Rnw@y",
+            "@attr": { "rank": 14 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 257,
+            "url": "https://www.last.fm/music/Linkin+Park/Reanimation/My%3CDsmbr",
+            "name": "My<Dsmbr",
+            "@attr": { "rank": 15 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 10,
+            "url": "https://www.last.fm/music/Linkin+Park/Reanimation/%5BStef%5D",
+            "name": "[Stef]",
+            "@attr": { "rank": 16 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 222,
+            "url": "https://www.last.fm/music/Linkin+Park/Reanimation/By_Myslf",
+            "name": "By_Myslf",
+            "@attr": { "rank": 17 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 152,
+            "url": "https://www.last.fm/music/Linkin+Park/Reanimation/Kyur4+Th+Ich",
+            "name": "Kyur4 Th Ich",
+            "@attr": { "rank": 18 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 346,
+            "url": "https://www.last.fm/music/Linkin+Park/Reanimation/1Stp+Klosr",
+            "name": "1Stp Klosr",
+            "@attr": { "rank": 19 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 340,
+            "url": "https://www.last.fm/music/Linkin+Park/Reanimation/Krwlng",
+            "name": "Krwlng",
+            "@attr": { "rank": 20 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Linkin+Park/Reanimation",
+      "name": "Reanimation",
+      "listeners": "441821",
+      "wiki": {
+        "published": "10 Oct 2020, 01:28",
+        "summary": "Reanimation is the first remix album by American rock band Linkin Park as a follow-up to their first studio album, Hybrid Theory, released on July 30, 2002. Recorded during the Hybrid Theory tour in 2001, it features remixes of songs from Hybrid Theory, including the album's bonus tracks. The remix album was produced by Mike Shinoda and mixed by Mark \"Spike\" Stent. The album to date is the fourth best selling remix album of all time, behind Blood on the Dance Floor: HIStory in the Mix by Michael Jackson, You Can Dance by Madonna and Love by The Beatles. \"Pts.OF.Athrty\", <a href=\"https://www.last.fm/music/Linkin+Park/Reanimation\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Linkin Park",
+      "mbid": "95e96595-d34d-440e-be29-2c3c02895f0b",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/nu+metal", "name": "nu metal" },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          {
+            "url": "https://www.last.fm/tag/alternative+rock",
+            "name": "alternative rock"
+          },
+          {
+            "url": "https://www.last.fm/tag/alternative",
+            "name": "alternative"
+          },
+          {
+            "url": "https://www.last.fm/tag/linkin+park",
+            "name": "linkin park"
+          }
+        ]
+      },
+      "name": "Hybrid Theory (Bonus Track Version)",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/53a7bd85bc99272900f620792bf43452.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/53a7bd85bc99272900f620792bf43452.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/53a7bd85bc99272900f620792bf43452.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/53a7bd85bc99272900f620792bf43452.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/53a7bd85bc99272900f620792bf43452.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/53a7bd85bc99272900f620792bf43452.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 193,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory+(Bonus+Track+Version)/Papercut",
+            "name": "Papercut",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 247,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory+(Bonus+Track+Version)/One+Step+Closer",
+            "name": "One Step Closer",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 216,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory+(Bonus+Track+Version)/With+You",
+            "name": "With You",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 209,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory+(Bonus+Track+Version)/Points+of+Authority",
+            "name": "Points of Authority",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 350,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory+(Bonus+Track+Version)/Crawling",
+            "name": "Crawling",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 222,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory+(Bonus+Track+Version)/Runaway",
+            "name": "Runaway",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 198,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory+(Bonus+Track+Version)/By+Myself",
+            "name": "By Myself",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 239,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory+(Bonus+Track+Version)/In+the+End",
+            "name": "In the End",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 229,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory+(Bonus+Track+Version)/A+Place+for+My+Head",
+            "name": "A Place for My Head",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 381,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory+(Bonus+Track+Version)/Forgotten",
+            "name": "Forgotten",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 137,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory+(Bonus+Track+Version)/Cure+for+the+Itch",
+            "name": "Cure for the Itch",
+            "@attr": { "rank": 11 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 233,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory+(Bonus+Track+Version)/Pushing+Me+Away",
+            "name": "Pushing Me Away",
+            "@attr": { "rank": 12 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 261,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory+(Bonus+Track+Version)/My+December",
+            "name": "My December",
+            "@attr": { "rank": 13 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 274,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory+(Bonus+Track+Version)/High+Voltage",
+            "name": "High Voltage",
+            "@attr": { "rank": 14 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 189,
+            "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory+(Bonus+Track+Version)/Papercut+-+Recorded+Live+At+BBC1",
+            "name": "Papercut - Recorded Live At BBC1",
+            "@attr": { "rank": 15 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          }
+        ]
+      },
+      "listeners": "363319",
+      "playcount": "5870153",
+      "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory+(Bonus+Track+Version)",
+      "wiki": {}
+    },
+    {
+      "artist": "Linkin Park",
+      "listeners": "360080",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/2a3ab7d7e3155d3779e4997f5f23d0ef.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/2a3ab7d7e3155d3779e4997f5f23d0ef.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/2a3ab7d7e3155d3779e4997f5f23d0ef.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a3ab7d7e3155d3779e4997f5f23d0ef.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a3ab7d7e3155d3779e4997f5f23d0ef.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a3ab7d7e3155d3779e4997f5f23d0ef.jpg"
+        }
+      ],
+      "mbid": "",
+      "tags": {
+        "tag": [
+          {
+            "url": "https://www.last.fm/tag/alternative+metal",
+            "name": "alternative metal"
+          },
+          { "url": "https://www.last.fm/tag/rap+rock", "name": "rap rock" },
+          { "url": "https://www.last.fm/tag/rapcore", "name": "rapcore" },
+          { "url": "https://www.last.fm/tag/nu+metal", "name": "nu metal" },
+          { "url": "https://www.last.fm/tag/rap+metal", "name": "rap metal" }
+        ]
+      },
+      "name": "Meteora (Bonus Edition)",
+      "playcount": "7896960",
+      "url": "https://www.last.fm/music/Linkin+Park/Meteora+(Bonus+Edition)",
+      "wiki": {}
+    },
+    {
+      "artist": "Linkin Park",
+      "mbid": "0bba6a37-4087-49c9-bf9e-f68363d343b6",
+      "tags": {
+        "tag": [
+          {
+            "url": "https://www.last.fm/tag/alternative",
+            "name": "alternative"
+          },
+          { "url": "https://www.last.fm/tag/pop", "name": "pop" },
+          { "url": "https://www.last.fm/tag/pop+rock", "name": "pop rock" },
+          {
+            "url": "https://www.last.fm/tag/ambient+pop",
+            "name": "ambient pop"
+          },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" }
+        ]
+      },
+      "playcount": "8591167",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/5e03d7c6d69c19819b07cef436e73413.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/5e03d7c6d69c19819b07cef436e73413.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/5e03d7c6d69c19819b07cef436e73413.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/5e03d7c6d69c19819b07cef436e73413.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/5e03d7c6d69c19819b07cef436e73413.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/5e03d7c6d69c19819b07cef436e73413.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 239,
+            "url": "https://www.last.fm/music/Linkin+Park/One+More+Light/Nobody+Can+Save+Me",
+            "name": "Nobody Can Save Me",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 211,
+            "url": "https://www.last.fm/music/Linkin+Park/One+More+Light/Good+Goodbye+(feat.+Pusha+T+and+Stormzy)",
+            "name": "Good Goodbye (feat. Pusha T and Stormzy)",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 316,
+            "url": "https://www.last.fm/music/Linkin+Park/One+More+Light/Talking+to+Myself",
+            "name": "Talking to Myself",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 225,
+            "url": "https://www.last.fm/music/Linkin+Park/One+More+Light/Battle+Symphony",
+            "name": "Battle Symphony",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 270,
+            "url": "https://www.last.fm/music/Linkin+Park/One+More+Light/Invisible",
+            "name": "Invisible",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 165,
+            "url": "https://www.last.fm/music/Linkin+Park/One+More+Light/Heavy+(feat.+Kiiara)",
+            "name": "Heavy (feat. Kiiara)",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/One+More+Light/Sorry+for+Now",
+            "name": "Sorry for Now",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Linkin+Park/One+More+Light/Halfway+Right",
+            "name": "Halfway Right",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 259,
+            "url": "https://www.last.fm/music/Linkin+Park/One+More+Light/One+More+Light",
+            "name": "One More Light",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 287,
+            "url": "https://www.last.fm/music/Linkin+Park/One+More+Light/Sharp+Edges",
+            "name": "Sharp Edges",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Linkin+Park",
+              "name": "Linkin Park",
+              "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419"
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Linkin+Park/One+More+Light",
+      "name": "One More Light",
+      "listeners": "341376",
+      "wiki": {
+        "published": "06 Jun 2018, 11:53",
+        "summary": "'One More Light' is the 7th studio album by American rock band Linkin Park and the last one featuring Chester Bennington. Recorded through September 2015 to February 2017, 'One More Light' was produced by Brad Delson and Mike Shinoda, and released on May 19th, 2017 through Warner Bros. Records (and Machine Shop). 'Heavy', the first single released from the album, is a duet featuring Kiiara, marking it the first time that Linkin Park has ever featured a female vocalist on an original song for a studio album. Also, it is the first Linkin Park album to feature a title track, <a href=\"https://www.last.fm/music/Linkin+Park/One+More+Light\">Read more on Last.fm</a>."
+      }
+    }
+  ]
+}

@@ -1,0 +1,964 @@
+{
+  "name": "Welshly Arms",
+  "mbid": "db882a54-72cd-4e7e-b574-be879e876de8",
+  "bio": "Hailing from Cleveland, Ohio, blues/rock band Welshly Arms is comprised of Jimmy Weaver bass guitar, Mikey Gould drums, Brett Lindemann keys, and Sam Getz guitar and vocals. \n\nWelshly Arms owes its unique sound to the collective influences of rhythm and soul, rock and roll, and a hint of classic jazz/blues. From Jimi Hendrix to The Temptations; from Otis Redding to Howlin’ Wolf, the band’s love affair with retro and contemporary work brings a new sound with songs like “Two Seconds Too Late” and “The Touch”. <a href=\"https://www.last.fm/music/Welshly+Arms\">Read more on Last.fm</a>",
+  "tags": {
+    "tag": [
+      { "name": "blues rock", "url": "https://www.last.fm/tag/blues+rock" },
+      { "name": "blues", "url": "https://www.last.fm/tag/blues" },
+      { "name": "rock", "url": "https://www.last.fm/tag/rock" },
+      { "name": "american", "url": "https://www.last.fm/tag/american" },
+      { "name": "seen live", "url": "https://www.last.fm/tag/seen+live" }
+    ]
+  },
+  "albums": [
+    {
+      "artist": "Welshly Arms",
+      "mbid": "9da2f992-9207-441a-95e7-c7a38e634ca5",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/2018", "name": "2018" },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          {
+            "url": "https://www.last.fm/tag/alternative+rock",
+            "name": "alternative rock"
+          },
+          {
+            "url": "https://www.last.fm/tag/2018+single",
+            "name": "2018 single"
+          },
+          { "url": "https://www.last.fm/tag/blues", "name": "blues" }
+        ]
+      },
+      "name": "No Place Is Home",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/a840258f6f9a6df568a27367e2a95856.png"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/a840258f6f9a6df568a27367e2a95856.png"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/a840258f6f9a6df568a27367e2a95856.png"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/a840258f6f9a6df568a27367e2a95856.png"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/a840258f6f9a6df568a27367e2a95856.png"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/a840258f6f9a6df568a27367e2a95856.png"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 234,
+            "url": "https://www.last.fm/music/Welshly+Arms/No+Place+Is+Home/All+the+Way+Up",
+            "name": "All the Way Up",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 226,
+            "url": "https://www.last.fm/music/Welshly+Arms/No+Place+Is+Home/Indestructible",
+            "name": "Indestructible",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 226,
+            "url": "https://www.last.fm/music/Welshly+Arms/No+Place+Is+Home/Sanctuary",
+            "name": "Sanctuary",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 247,
+            "url": "https://www.last.fm/music/Welshly+Arms/No+Place+Is+Home/How+High",
+            "name": "How High",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 217,
+            "url": "https://www.last.fm/music/Welshly+Arms/No+Place+Is+Home/All+for+Us",
+            "name": "All for Us",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 256,
+            "url": "https://www.last.fm/music/Welshly+Arms/No+Place+Is+Home/Down+To+The+River",
+            "name": "Down To The River",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 240,
+            "url": "https://www.last.fm/music/Welshly+Arms/No+Place+Is+Home/Locked",
+            "name": "Locked",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 266,
+            "url": "https://www.last.fm/music/Welshly+Arms/No+Place+Is+Home/Hammer",
+            "name": "Hammer",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Welshly+Arms/No+Place+Is+Home/Legendary",
+            "name": "Legendary",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Welshly+Arms/No+Place+Is+Home/X+%5BExplicit%5D",
+            "name": "X [Explicit]",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 215,
+            "url": "https://www.last.fm/music/Welshly+Arms/No+Place+Is+Home/Wild",
+            "name": "Wild",
+            "@attr": { "rank": 11 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 210,
+            "url": "https://www.last.fm/music/Welshly+Arms/No+Place+Is+Home/Love+of+the+Game",
+            "name": "Love of the Game",
+            "@attr": { "rank": 12 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 221,
+            "url": "https://www.last.fm/music/Welshly+Arms/No+Place+Is+Home/Unspoken",
+            "name": "Unspoken",
+            "@attr": { "rank": 13 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          }
+        ]
+      },
+      "listeners": "81037",
+      "playcount": "825175",
+      "url": "https://www.last.fm/music/Welshly+Arms/No+Place+Is+Home",
+      "wiki": {}
+    },
+    {
+      "artist": "Welshly Arms",
+      "mbid": "63307e43-5678-467a-ba85-419bbb52cfe3",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          { "url": "https://www.last.fm/tag/blues", "name": "blues" },
+          { "url": "https://www.last.fm/tag/american", "name": "american" },
+          { "url": "https://www.last.fm/tag/indie+rock", "name": "indie rock" },
+          { "url": "https://www.last.fm/tag/blues+rock", "name": "blues rock" }
+        ]
+      },
+      "name": "Legendary",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/158aa191bba4ab704e7b21f3123133aa.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/158aa191bba4ab704e7b21f3123133aa.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/158aa191bba4ab704e7b21f3123133aa.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/158aa191bba4ab704e7b21f3123133aa.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/158aa191bba4ab704e7b21f3123133aa.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/158aa191bba4ab704e7b21f3123133aa.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Welshly+Arms/Legendary/Legendary",
+            "name": "Legendary",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Welshly+Arms/Legendary/Legendary+(Instrumental)",
+            "name": "Legendary (Instrumental)",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          }
+        ]
+      },
+      "listeners": "64890",
+      "playcount": "272680",
+      "url": "https://www.last.fm/music/Welshly+Arms/Legendary",
+      "wiki": {}
+    },
+    {
+      "artist": "Welshly Arms",
+      "mbid": "e06f29ea-f478-455b-a70e-406176c1193e",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          { "url": "https://www.last.fm/tag/blues", "name": "blues" },
+          { "url": "https://www.last.fm/tag/american", "name": "american" },
+          { "url": "https://www.last.fm/tag/blues+rock", "name": "blues rock" },
+          {
+            "url": "https://www.last.fm/tag/2017+single",
+            "name": "2017 single"
+          }
+        ]
+      },
+      "name": "Legendary - EP",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/f7136e4da79457a34eab9c67226b8b73.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/f7136e4da79457a34eab9c67226b8b73.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/f7136e4da79457a34eab9c67226b8b73.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/f7136e4da79457a34eab9c67226b8b73.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/f7136e4da79457a34eab9c67226b8b73.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/f7136e4da79457a34eab9c67226b8b73.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Welshly+Arms/Legendary+-+EP/Legendary",
+            "name": "Legendary",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 227,
+            "url": "https://www.last.fm/music/Welshly+Arms/Legendary+-+EP/Who+We+Are",
+            "name": "Who We Are",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 236,
+            "url": "https://www.last.fm/music/Welshly+Arms/Legendary+-+EP/The+Only",
+            "name": "The Only",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 218,
+            "url": "https://www.last.fm/music/Welshly+Arms/Legendary+-+EP/Never+Be+The+Same",
+            "name": "Never Be The Same",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          }
+        ]
+      },
+      "listeners": "43478",
+      "playcount": "281018",
+      "url": "https://www.last.fm/music/Welshly+Arms/Legendary+-+EP",
+      "wiki": {}
+    },
+    {
+      "artist": "Welshly Arms",
+      "mbid": "1ea6db42-fa1d-4873-931a-226ab4039aaa",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/2015", "name": "2015" },
+          { "url": "https://www.last.fm/tag/sxsw+2016", "name": "sxsw 2016" },
+          { "url": "https://www.last.fm/tag/blues+rock", "name": "blues rock" },
+          { "url": "https://www.last.fm/tag/blues", "name": "blues" },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" }
+        ]
+      },
+      "name": "Welshly Arms",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/e5046df15c6e9e0c8054204a6d03296a.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/e5046df15c6e9e0c8054204a6d03296a.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/e5046df15c6e9e0c8054204a6d03296a.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/e5046df15c6e9e0c8054204a6d03296a.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/e5046df15c6e9e0c8054204a6d03296a.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/e5046df15c6e9e0c8054204a6d03296a.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 239,
+            "url": "https://www.last.fm/music/Welshly+Arms/Welshly+Arms/Love+in+a+Minor+Key",
+            "name": "Love in a Minor Key",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 219,
+            "url": "https://www.last.fm/music/Welshly+Arms/Welshly+Arms/Dirty+Work",
+            "name": "Dirty Work",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 176,
+            "url": "https://www.last.fm/music/Welshly+Arms/Welshly+Arms/Never+Meant+to+Be",
+            "name": "Never Meant to Be",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 262,
+            "url": "https://www.last.fm/music/Welshly+Arms/Welshly+Arms/Ain%27t+Supposed+to+Rain",
+            "name": "Ain't Supposed to Rain",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 319,
+            "url": "https://www.last.fm/music/Welshly+Arms/Welshly+Arms/We+Move+Easy",
+            "name": "We Move Easy",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 113,
+            "url": "https://www.last.fm/music/Welshly+Arms/Welshly+Arms/Three+Dark+Days",
+            "name": "Three Dark Days",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 259,
+            "url": "https://www.last.fm/music/Welshly+Arms/Welshly+Arms/The+Touch",
+            "name": "The Touch",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 261,
+            "url": "https://www.last.fm/music/Welshly+Arms/Welshly+Arms/Night+Prowler",
+            "name": "Night Prowler",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 291,
+            "url": "https://www.last.fm/music/Welshly+Arms/Welshly+Arms/Leave+It+All+Behind",
+            "name": "Leave It All Behind",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 327,
+            "url": "https://www.last.fm/music/Welshly+Arms/Welshly+Arms/Who+Knew",
+            "name": "Who Knew",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          }
+        ]
+      },
+      "listeners": "24510",
+      "playcount": "189177",
+      "url": "https://www.last.fm/music/Welshly+Arms/Welshly+Arms",
+      "wiki": {}
+    },
+    {
+      "artist": "Welshly Arms",
+      "mbid": "727ae027-2893-421b-abbf-8661e98aa0df",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/pop", "name": "pop" },
+          { "url": "https://www.last.fm/tag/blues+rock", "name": "blues rock" },
+          { "url": "https://www.last.fm/tag/blues", "name": "blues" },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          { "url": "https://www.last.fm/tag/american", "name": "american" }
+        ]
+      },
+      "name": "Learn To Let Go",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/3e44756386306f08c53e0ba9543716a9.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/3e44756386306f08c53e0ba9543716a9.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/3e44756386306f08c53e0ba9543716a9.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/3e44756386306f08c53e0ba9543716a9.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/3e44756386306f08c53e0ba9543716a9.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/3e44756386306f08c53e0ba9543716a9.jpg"
+        }
+      ],
+      "tracks": {
+        "track": {
+          "streamable": { "fulltrack": "0", "text": "0" },
+          "duration": 215,
+          "url": "https://www.last.fm/music/Welshly+Arms/Learn+To+Let+Go/Learn+To+Let+Go",
+          "name": "Learn To Let Go",
+          "@attr": { "rank": 1 },
+          "artist": {
+            "url": "https://www.last.fm/music/Welshly+Arms",
+            "name": "Welshly Arms",
+            "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+          }
+        }
+      },
+      "listeners": "18206",
+      "playcount": "67695",
+      "url": "https://www.last.fm/music/Welshly+Arms/Learn+To+Let+Go",
+      "wiki": {}
+    },
+    {
+      "artist": "Welshly Arms",
+      "mbid": "8ac83458-4242-43e9-8891-a7dd5e6aace0",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/blues+rock", "name": "blues rock" },
+          { "url": "https://www.last.fm/tag/blues", "name": "blues" },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          { "url": "https://www.last.fm/tag/american", "name": "american" },
+          { "url": "https://www.last.fm/tag/indie", "name": "indie" }
+        ]
+      },
+      "name": "Trouble",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/c22b1996c818f298bb79fe42d655d72c.png"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/c22b1996c818f298bb79fe42d655d72c.png"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/c22b1996c818f298bb79fe42d655d72c.png"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/c22b1996c818f298bb79fe42d655d72c.png"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/c22b1996c818f298bb79fe42d655d72c.png"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/c22b1996c818f298bb79fe42d655d72c.png"
+        }
+      ],
+      "tracks": {
+        "track": {
+          "streamable": { "fulltrack": "0", "text": "0" },
+          "duration": 186,
+          "url": "https://www.last.fm/music/Welshly+Arms/Trouble/Trouble",
+          "name": "Trouble",
+          "@attr": { "rank": 1 },
+          "artist": {
+            "url": "https://www.last.fm/music/Welshly+Arms",
+            "name": "Welshly Arms",
+            "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+          }
+        }
+      },
+      "listeners": "16947",
+      "playcount": "68399",
+      "url": "https://www.last.fm/music/Welshly+Arms/Trouble",
+      "wiki": {}
+    },
+    {
+      "artist": "Welshly Arms",
+      "mbid": "",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/cover", "name": "cover" },
+          { "url": "https://www.last.fm/tag/do+do+do", "name": "do do do" },
+          { "url": "https://www.last.fm/tag/handclaps", "name": "handclaps" },
+          {
+            "url": "https://www.last.fm/tag/artisttoknow",
+            "name": "artisttoknow"
+          },
+          { "url": "https://www.last.fm/tag/blues+rock", "name": "blues rock" }
+        ]
+      },
+      "name": "Covers EP",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/7ca3b6adfd76c44c07a7db7a877ad85f.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/7ca3b6adfd76c44c07a7db7a877ad85f.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/7ca3b6adfd76c44c07a7db7a877ad85f.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/7ca3b6adfd76c44c07a7db7a877ad85f.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/7ca3b6adfd76c44c07a7db7a877ad85f.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/7ca3b6adfd76c44c07a7db7a877ad85f.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 233,
+            "url": "https://www.last.fm/music/Welshly+Arms/Covers+EP/Hold+on+I%27m+Coming",
+            "name": "Hold on I'm Coming",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 289,
+            "url": "https://www.last.fm/music/Welshly+Arms/Covers+EP/Time+Has+Come+Today",
+            "name": "Time Has Come Today",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 216,
+            "url": "https://www.last.fm/music/Welshly+Arms/Covers+EP/You+Got+It",
+            "name": "You Got It",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 366,
+            "url": "https://www.last.fm/music/Welshly+Arms/Covers+EP/Radar+Love",
+            "name": "Radar Love",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 222,
+            "url": "https://www.last.fm/music/Welshly+Arms/Covers+EP/Ain%27t+No+Love+in+the+Heart+of+the+City",
+            "name": "Ain't No Love in the Heart of the City",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 230,
+            "url": "https://www.last.fm/music/Welshly+Arms/Covers+EP/Hush",
+            "name": "Hush",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Welshly+Arms",
+              "name": "Welshly Arms",
+              "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+            }
+          }
+        ]
+      },
+      "listeners": "11501",
+      "playcount": "63447",
+      "url": "https://www.last.fm/music/Welshly+Arms/Covers+EP",
+      "wiki": {}
+    },
+    {
+      "artist": "Welshly Arms",
+      "mbid": "1a4773ee-1605-4f47-ad1d-18cb238beccd",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/cover", "name": "cover" },
+          { "url": "https://www.last.fm/tag/blues+rock", "name": "blues rock" },
+          { "url": "https://www.last.fm/tag/blues", "name": "blues" },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          { "url": "https://www.last.fm/tag/american", "name": "american" }
+        ]
+      },
+      "name": "Need You Tonight",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/e6b0256ddd7f80239d3ccb6eafe58d82.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/e6b0256ddd7f80239d3ccb6eafe58d82.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/e6b0256ddd7f80239d3ccb6eafe58d82.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6b0256ddd7f80239d3ccb6eafe58d82.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6b0256ddd7f80239d3ccb6eafe58d82.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6b0256ddd7f80239d3ccb6eafe58d82.jpg"
+        }
+      ],
+      "tracks": {
+        "track": {
+          "streamable": { "fulltrack": "0", "text": "0" },
+          "duration": 274,
+          "url": "https://www.last.fm/music/Welshly+Arms/Need+You+Tonight/Need+You+Tonight",
+          "name": "Need You Tonight",
+          "@attr": { "rank": 1 },
+          "artist": {
+            "url": "https://www.last.fm/music/Welshly+Arms",
+            "name": "Welshly Arms",
+            "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+          }
+        }
+      },
+      "listeners": "10328",
+      "playcount": "40936",
+      "url": "https://www.last.fm/music/Welshly+Arms/Need+You+Tonight",
+      "wiki": {}
+    },
+    {
+      "artist": "Welshly Arms",
+      "listeners": "8878",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/4fbd6e9e91827b1452ba8b16119be4dc.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/4fbd6e9e91827b1452ba8b16119be4dc.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/4fbd6e9e91827b1452ba8b16119be4dc.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/4fbd6e9e91827b1452ba8b16119be4dc.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/4fbd6e9e91827b1452ba8b16119be4dc.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/4fbd6e9e91827b1452ba8b16119be4dc.jpg"
+        }
+      ],
+      "mbid": "8215f81f-e0b4-4d5a-8d47-623411b0ad8b",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/blues+rock", "name": "blues rock" },
+          { "url": "https://www.last.fm/tag/blues", "name": "blues" },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          { "url": "https://www.last.fm/tag/american", "name": "american" },
+          { "url": "https://www.last.fm/tag/indie", "name": "indie" }
+        ]
+      },
+      "name": "Bad Blood",
+      "playcount": "41962",
+      "url": "https://www.last.fm/music/Welshly+Arms/Bad+Blood",
+      "wiki": {}
+    },
+    {
+      "artist": "Welshly Arms",
+      "mbid": "",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/blues+rock", "name": "blues rock" },
+          { "url": "https://www.last.fm/tag/blues", "name": "blues" },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          { "url": "https://www.last.fm/tag/american", "name": "american" },
+          { "url": "https://www.last.fm/tag/indie", "name": "indie" }
+        ]
+      },
+      "name": "Indestructible",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/869054aaed5807b6a469b653fdabaec6.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/869054aaed5807b6a469b653fdabaec6.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/869054aaed5807b6a469b653fdabaec6.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/869054aaed5807b6a469b653fdabaec6.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/869054aaed5807b6a469b653fdabaec6.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/869054aaed5807b6a469b653fdabaec6.jpg"
+        }
+      ],
+      "tracks": {
+        "track": {
+          "streamable": { "fulltrack": "0", "text": "0" },
+          "duration": 226,
+          "url": "https://www.last.fm/music/Welshly+Arms/Indestructible/Indestructible",
+          "name": "Indestructible",
+          "@attr": { "rank": 1 },
+          "artist": {
+            "url": "https://www.last.fm/music/Welshly+Arms",
+            "name": "Welshly Arms",
+            "mbid": "db882a54-72cd-4e7e-b574-be879e876de8"
+          }
+        }
+      },
+      "listeners": "8827",
+      "playcount": "27308",
+      "url": "https://www.last.fm/music/Welshly+Arms/Indestructible",
+      "wiki": {}
+    }
+  ]
+}

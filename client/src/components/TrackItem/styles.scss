@@ -1,0 +1,42 @@
+
+.track {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  border:2px solid transparent;
+  padding-right: 10px;
+
+  &:hover {
+    border:2px solid #fff;
+  }
+
+  &__title {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  &__artist {
+    color:#ccc;
+    white-space: nowrap;
+  }
+
+  &__image {
+    margin-right: 10px;
+  }
+
+  &__duration {
+    color:#ccc;
+    min-width: 40px;
+
+  }
+
+
+  &__actions {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+  }
+  &__like-btn {
+    margin-right: 10px;
+  }
+}

@@ -1,0 +1,1992 @@
+{
+  "name": "Red Hot Chili Peppers",
+  "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+  "bio": "The Red Hot Chili Peppers are an American rock band formed in Los Angeles in 1983. Their music incorporates elements of alternative rock, funk, punk rock and psychedelic rock. The band consists of co-founders Anthony Kiedis (lead vocals) and Flea (bass), as well as drummer Chad Smith, and guitarist John Frusciante, the latter of whom has been in the band across three stints. With over 100 million records sold worldwide, the Red Hot Chili Peppers are one of the best-selling bands of all time. <a href=\"https://www.last.fm/music/Red+Hot+Chili+Peppers\">Read more on Last.fm</a>",
+  "tags": {
+    "tag": [
+      { "name": "rock", "url": "https://www.last.fm/tag/rock" },
+      {
+        "name": "alternative rock",
+        "url": "https://www.last.fm/tag/alternative+rock"
+      },
+      { "name": "alternative", "url": "https://www.last.fm/tag/alternative" },
+      { "name": "Funk Rock", "url": "https://www.last.fm/tag/Funk+Rock" },
+      { "name": "funk", "url": "https://www.last.fm/tag/funk" }
+    ]
+  },
+  "albums": [
+    {
+      "artist": "Red Hot Chili Peppers",
+      "mbid": "058dcfa5-4921-4055-87b0-f541eb4adb08",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          {
+            "url": "https://www.last.fm/tag/alternative+rock",
+            "name": "alternative rock"
+          },
+          {
+            "url": "https://www.last.fm/tag/alternative",
+            "name": "alternative"
+          },
+          { "url": "https://www.last.fm/tag/90s", "name": "90s" },
+          { "url": "https://www.last.fm/tag/funk+rock", "name": "funk rock" }
+        ]
+      },
+      "playcount": "46947089",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/a1ef00507ce94ac6b59d00d6603a1a22.png"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/a1ef00507ce94ac6b59d00d6603a1a22.png"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/a1ef00507ce94ac6b59d00d6603a1a22.png"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/a1ef00507ce94ac6b59d00d6603a1a22.png"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/a1ef00507ce94ac6b59d00d6603a1a22.png"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/a1ef00507ce94ac6b59d00d6603a1a22.png"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 238,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Californication/Around+the+World",
+            "name": "Around the World",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 270,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Californication/Parallel+Universe",
+            "name": "Parallel Universe",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 216,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Californication/Scar+Tissue",
+            "name": "Scar Tissue",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 255,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Californication/Otherside",
+            "name": "Otherside",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 208,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Californication/Get+on+Top",
+            "name": "Get on Top",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 322,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Californication/Californication",
+            "name": "Californication",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Californication/Easily",
+            "name": "Easily",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 163,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Californication/Porcelain",
+            "name": "Porcelain",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Californication/Emit+Remmus",
+            "name": "Emit Remmus",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 155,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Californication/I+Like+Dirt",
+            "name": "I Like Dirt",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 225,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Californication/This+Velvet+Glove",
+            "name": "This Velvet Glove",
+            "@attr": { "rank": 11 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 347,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Californication/Savior",
+            "name": "Savior",
+            "@attr": { "rank": 12 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 253,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Californication/Purple+Stain",
+            "name": "Purple Stain",
+            "@attr": { "rank": 13 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 169,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Californication/Right+on+Time",
+            "name": "Right on Time",
+            "@attr": { "rank": 14 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 205,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Californication/Road+Trippin%27",
+            "name": "Road Trippin'",
+            "@attr": { "rank": 15 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Californication",
+      "name": "Californication",
+      "listeners": "2259657",
+      "wiki": {
+        "published": "10 Oct 2009, 17:02",
+        "summary": "Californication is the seventh studio album by American alternative rock band Red Hot Chili Peppers, released on June 8, 1999 on Warner Bros. Records. Produced by Rick Rubin, Californication marked the return of John Frusciante, who had previously appeared on Mother's Milk and Blood Sugar Sex Magik, to replace Dave Navarro as the band's guitarist. Frusciante's return was credited with changing the band's sound altogether. The record was a notable shift in style from what was produced with Navarro. The album's subject material incorporated various sexual innuendos commonly associated with the band, and introduced themes of lust, death, contemplations of <a href=\"https://www.last.fm/music/Red+Hot+Chili+Peppers/Californication\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "mbid": "0cfe933d-3bfd-3dc3-aadc-79260737935f",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          {
+            "url": "https://www.last.fm/tag/alternative+rock",
+            "name": "alternative rock"
+          },
+          { "url": "https://www.last.fm/tag/funk+rock", "name": "funk rock" },
+          {
+            "url": "https://www.last.fm/tag/red+hot+chili+peppers",
+            "name": "red hot chili peppers"
+          },
+          {
+            "url": "https://www.last.fm/tag/alternative",
+            "name": "alternative"
+          }
+        ]
+      },
+      "playcount": "52651193",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/fb7d1a6c6e5240c48159d08b17ea022b.png"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/fb7d1a6c6e5240c48159d08b17ea022b.png"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/fb7d1a6c6e5240c48159d08b17ea022b.png"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb7d1a6c6e5240c48159d08b17ea022b.png"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb7d1a6c6e5240c48159d08b17ea022b.png"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb7d1a6c6e5240c48159d08b17ea022b.png"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 282,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/Dani+California",
+            "name": "Dani California",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 334,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/Snow+(Hey+Oh)",
+            "name": "Snow (Hey Oh)",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/Charlie",
+            "name": "Charlie",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 315,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/Stadium+Arcadium",
+            "name": "Stadium Arcadium",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/Hump+de+Bump",
+            "name": "Hump de Bump",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 236,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/She%27s+Only+18",
+            "name": "She's Only 18",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 320,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/Slow+Cheetah",
+            "name": "Slow Cheetah",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 247,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/Torture+Me",
+            "name": "Torture Me",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 259,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/Strip+My+Mind",
+            "name": "Strip My Mind",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 241,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/Especially+in+Michigan",
+            "name": "Especially in Michigan",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 205,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/Warlocks",
+            "name": "Warlocks",
+            "@attr": { "rank": 11 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 228,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/C%27mon+Girl",
+            "name": "C'mon Girl",
+            "@attr": { "rank": 12 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/Wet+Sand",
+            "name": "Wet Sand",
+            "@attr": { "rank": 13 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 339,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/Hey",
+            "name": "Hey",
+            "@attr": { "rank": 14 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 302,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/Desecration+Smile",
+            "name": "Desecration Smile",
+            "@attr": { "rank": 15 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 247,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/Tell+Me+Baby",
+            "name": "Tell Me Baby",
+            "@attr": { "rank": 16 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 242,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/Hard+to+Concentrate",
+            "name": "Hard to Concentrate",
+            "@attr": { "rank": 17 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 262,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/21st+Century",
+            "name": "21st Century",
+            "@attr": { "rank": 18 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 246,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/She+Looks+to+Me",
+            "name": "She Looks to Me",
+            "@attr": { "rank": 19 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/Readymade",
+            "name": "Readymade",
+            "@attr": { "rank": 20 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 172,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/If",
+            "name": "If",
+            "@attr": { "rank": 21 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 232,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/Make+You+Feel+Better",
+            "name": "Make You Feel Better",
+            "@attr": { "rank": 22 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 325,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/Animal+Bar",
+            "name": "Animal Bar",
+            "@attr": { "rank": 23 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 224,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/So+Much+I",
+            "name": "So Much I",
+            "@attr": { "rank": 24 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 225,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/Storm+in+a+Teacup",
+            "name": "Storm in a Teacup",
+            "@attr": { "rank": 25 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 216,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/We+Believe",
+            "name": "We Believe",
+            "@attr": { "rank": 26 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 366,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/Turn+It+Again",
+            "name": "Turn It Again",
+            "@attr": { "rank": 27 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 264,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium/Death+of+a+Martian",
+            "name": "Death of a Martian",
+            "@attr": { "rank": 28 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium",
+      "name": "Stadium Arcadium",
+      "listeners": "2194088",
+      "wiki": {
+        "published": "08 Aug 2008, 12:53",
+        "summary": "Stadium Arcadium is the ninth studio album by alternative rock band Red Hot Chili Peppers, released on May 9, 2006 via Warner Bros. Records. It sold 442,000 copies in the U.S. in the first week and debuted at number one on the Billboard 200. The album spawned five hit singles: \"Dani California\", \"Snow ((Hey Oh))\", \"Desecration Smile\", \"Hump De Bump\", and \"Tell Me Baby\". According to the band's frontman Anthony Kiedis, Stadium Arcadium was originally scheduled to be a trilogy of albums each released six months apart, but was eventually condensed into a double album. Stadium Arcadium was critically praised <a href=\"https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "mbid": "092067e1-ea17-41f8-ba18-9df373e181c9",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          {
+            "url": "https://www.last.fm/tag/alternative+rock",
+            "name": "alternative rock"
+          },
+          { "url": "https://www.last.fm/tag/funk+rock", "name": "funk rock" },
+          {
+            "url": "https://www.last.fm/tag/alternative",
+            "name": "alternative"
+          },
+          { "url": "https://www.last.fm/tag/2002", "name": "2002" }
+        ]
+      },
+      "playcount": "37568072",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/e6605f39212f48d1b3968e78b5423456.png"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/e6605f39212f48d1b3968e78b5423456.png"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/e6605f39212f48d1b3968e78b5423456.png"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6605f39212f48d1b3968e78b5423456.png"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6605f39212f48d1b3968e78b5423456.png"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6605f39212f48d1b3968e78b5423456.png"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 216,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/By+the+Way/By+the+Way",
+            "name": "By the Way",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/By+the+Way/Universally+Speaking",
+            "name": "Universally Speaking",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 257,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/By+the+Way/This+Is+the+Place",
+            "name": "This Is the Place",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 274,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/By+the+Way/Dosed",
+            "name": "Dosed",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/By+the+Way/Don%27t+Forget+Me",
+            "name": "Don't Forget Me",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 232,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/By+the+Way/The+Zephyr+Song",
+            "name": "The Zephyr Song",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 269,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/By+the+Way/Can%27t+Stop",
+            "name": "Can't Stop",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 193,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/By+the+Way/I+Could+Die+for+You",
+            "name": "I Could Die for You",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 295,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/By+the+Way/Midnight",
+            "name": "Midnight",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/By+the+Way/Throw+Away+Your+Television",
+            "name": "Throw Away Your Television",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 255,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/By+the+Way/Cabron",
+            "name": "Cabron",
+            "@attr": { "rank": 11 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 317,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/By+the+Way/Tear",
+            "name": "Tear",
+            "@attr": { "rank": 12 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 208,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/By+the+Way/On+Mercury",
+            "name": "On Mercury",
+            "@attr": { "rank": 13 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 217,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/By+the+Way/Minor+Thing",
+            "name": "Minor Thing",
+            "@attr": { "rank": 14 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 256,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/By+the+Way/Warm+Tape",
+            "name": "Warm Tape",
+            "@attr": { "rank": 15 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 367,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/By+the+Way/Venice+Queen",
+            "name": "Venice Queen",
+            "@attr": { "rank": 16 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/By+the+Way",
+      "name": "By the Way",
+      "listeners": "1662223",
+      "wiki": {
+        "published": "01 Jan 2022, 03:08",
+        "summary": "By the Way is the eighth studio album by American funk rock band Red Hot Chili Peppers, released July 9, 2002, on Warner Bros. Records. It sold more than 286,000 copies in its first week, and peaked at number two on the Billboard 200. Singles included \"By the Way\", \"The Zephyr Song\", \"Can't Stop\", \"Dosed\" and \"Universally Speaking\". The lyrical subject matter vocalist Anthony Kiedis addresses in By the Way is a divergence from previous Red Hot Chili Peppers albums, with Kiedis taking a more candid and reflective approach to his lyrics. By the Way was lauded by critics as <a href=\"https://www.last.fm/music/Red+Hot+Chili+Peppers/By+the+Way\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "mbid": "0cb0f83f-b8d2-4cd7-a5fb-32a4bc21d053",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          { "url": "https://www.last.fm/tag/funk+rock", "name": "funk rock" },
+          {
+            "url": "https://www.last.fm/tag/alternative+rock",
+            "name": "alternative rock"
+          },
+          {
+            "url": "https://www.last.fm/tag/alternative",
+            "name": "alternative"
+          },
+          { "url": "https://www.last.fm/tag/funk", "name": "funk" }
+        ]
+      },
+      "playcount": "20824572",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/866a975e024d45e2ad50e3e0399dd45d.png"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/866a975e024d45e2ad50e3e0399dd45d.png"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/866a975e024d45e2ad50e3e0399dd45d.png"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/866a975e024d45e2ad50e3e0399dd45d.png"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/866a975e024d45e2ad50e3e0399dd45d.png"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/866a975e024d45e2ad50e3e0399dd45d.png"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Blood+Sugar+Sex+Magik/The+Power+of+Equality",
+            "name": "The Power of Equality",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 335,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Blood+Sugar+Sex+Magik/If+You+Have+to+Ask",
+            "name": "If You Have to Ask",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 295,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Blood+Sugar+Sex+Magik/Breaking+the+Girl",
+            "name": "Breaking the Girl",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Blood+Sugar+Sex+Magik/Funky+Monks",
+            "name": "Funky Monks",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 217,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Blood+Sugar+Sex+Magik/Suck+My+Kiss",
+            "name": "Suck My Kiss",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 261,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Blood+Sugar+Sex+Magik/I+Could+Have+Lied",
+            "name": "I Could Have Lied",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Blood+Sugar+Sex+Magik/Mellowship+Slinky+in+B+Major",
+            "name": "Mellowship Slinky in B Major",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Blood+Sugar+Sex+Magik/The+Righteous+&+The+Wicked",
+            "name": "The Righteous & The Wicked",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 284,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Blood+Sugar+Sex+Magik/Give+It+Away",
+            "name": "Give It Away",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Blood+Sugar+Sex+Magik/Blood+Sugar+Sex+Magik",
+            "name": "Blood Sugar Sex Magik",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 266,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Blood+Sugar+Sex+Magik/Under+the+Bridge",
+            "name": "Under the Bridge",
+            "@attr": { "rank": 11 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 266,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Blood+Sugar+Sex+Magik/Naked+in+the+Rain",
+            "name": "Naked in the Rain",
+            "@attr": { "rank": 12 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Blood+Sugar+Sex+Magik/Apache+Rose+Peacock",
+            "name": "Apache Rose Peacock",
+            "@attr": { "rank": 13 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Blood+Sugar+Sex+Magik/The+Greeting+Song",
+            "name": "The Greeting Song",
+            "@attr": { "rank": 14 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 313,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Blood+Sugar+Sex+Magik/My+Lovely+Man",
+            "name": "My Lovely Man",
+            "@attr": { "rank": 15 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 422,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Blood+Sugar+Sex+Magik/Sir+Psycho+Sexy",
+            "name": "Sir Psycho Sexy",
+            "@attr": { "rank": 16 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 123,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Blood+Sugar+Sex+Magik/They%27re+Red+Hot",
+            "name": "They're Red Hot",
+            "@attr": { "rank": 17 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Blood+Sugar+Sex+Magik",
+      "name": "Blood Sugar Sex Magik",
+      "listeners": "1281040",
+      "wiki": {
+        "published": "05 May 2011, 07:43",
+        "summary": "Blood Sugar Sex Magik is the fifth studio album by American alternative rock band Red Hot Chili Peppers, released on September 24, 1991. Produced by Rick Rubin, it was the band's first record released on Warner Bros. Records. The musical styles of Blood Sugar Sex Magik differed notably from the techniques employed on the band's preceding album, Mother's Milk (1989), and featured little use of heavy metal guitar riffs. The album's subject matter incorporated sexual innuendos and references to drugs and death as well as themes of lust and exuberance. The album has sold over seven million copies in the <a href=\"https://www.last.fm/music/Red+Hot+Chili+Peppers/Blood+Sugar+Sex+Magik\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "mbid": "060ef92b-ae17-484d-845e-8ea687b805c2",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          {
+            "url": "https://www.last.fm/tag/alternative+rock",
+            "name": "alternative rock"
+          },
+          {
+            "url": "https://www.last.fm/tag/alternative",
+            "name": "alternative"
+          },
+          { "url": "https://www.last.fm/tag/funk", "name": "funk" },
+          { "url": "https://www.last.fm/tag/funk+rock", "name": "funk rock" }
+        ]
+      },
+      "playcount": "18861675",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/df27954a78474015b4bf9e8a4eb2649f.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/df27954a78474015b4bf9e8a4eb2649f.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/df27954a78474015b4bf9e8a4eb2649f.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/df27954a78474015b4bf9e8a4eb2649f.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/df27954a78474015b4bf9e8a4eb2649f.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/df27954a78474015b4bf9e8a4eb2649f.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 266,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Greatest+Hits/Under+the+Bridge",
+            "name": "Under the Bridge",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 284,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Greatest+Hits/Give+It+Away",
+            "name": "Give It Away",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 322,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Greatest+Hits/Californication",
+            "name": "Californication",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 216,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Greatest+Hits/Scar+Tissue",
+            "name": "Scar Tissue",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 291,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Greatest+Hits/Soul+to+Squeeze",
+            "name": "Soul to Squeeze",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 255,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Greatest+Hits/Otherside",
+            "name": "Otherside",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 217,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Greatest+Hits/Suck+My+Kiss",
+            "name": "Suck My Kiss",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 216,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Greatest+Hits/By+the+Way",
+            "name": "By the Way",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 270,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Greatest+Hits/Parallel+Universe",
+            "name": "Parallel Universe",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 295,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Greatest+Hits/Breaking+the+Girl",
+            "name": "Breaking the Girl",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Greatest+Hits/My+Friends",
+            "name": "My Friends",
+            "@attr": { "rank": 11 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 203,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Greatest+Hits/Higher+Ground",
+            "name": "Higher Ground",
+            "@attr": { "rank": 12 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Greatest+Hits/Universally+Speaking",
+            "name": "Universally Speaking",
+            "@attr": { "rank": 13 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 205,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Greatest+Hits/Road+Trippin%27",
+            "name": "Road Trippin'",
+            "@attr": { "rank": 14 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 200,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Greatest+Hits/Fortune+Faded",
+            "name": "Fortune Faded",
+            "@attr": { "rank": 15 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 246,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Greatest+Hits/Save+the+Population",
+            "name": "Save the Population",
+            "@attr": { "rank": 16 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Greatest+Hits",
+      "name": "Greatest Hits",
+      "listeners": "1040608",
+      "wiki": {
+        "published": "12 Dec 2012, 06:23",
+        "summary": "While their first compilation album What Hits!? encompasses material from their 1984 debut to 1989's Mother's Milk, this collection of songs takes off from that point, including material from their 1991 album Blood Sugar Sex Magik up through their 2002 album By the Way. It was during this period of their career that the band became a major commercial force in the music industry. Therefore this compilation includes the majority of hit singles released since their breakthrough cover of Stevie Wonder's \"Higher Ground\" (also included on What Hits!?). \"Higher Ground\" from Mother's Milk, an album released by EMI Records, is <a href=\"https://www.last.fm/music/Red+Hot+Chili+Peppers/Greatest+Hits\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "listeners": "675198",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/45dfde4f63a50f3aedeee21f3e9ed033.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/45dfde4f63a50f3aedeee21f3e9ed033.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/45dfde4f63a50f3aedeee21f3e9ed033.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/45dfde4f63a50f3aedeee21f3e9ed033.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/45dfde4f63a50f3aedeee21f3e9ed033.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/45dfde4f63a50f3aedeee21f3e9ed033.jpg"
+        }
+      ],
+      "mbid": "",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/1999", "name": "1999" },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          {
+            "url": "https://www.last.fm/tag/alternative+rock",
+            "name": "alternative rock"
+          },
+          {
+            "url": "https://www.last.fm/tag/los+angeles",
+            "name": "los angeles"
+          },
+          { "url": "https://www.last.fm/tag/california", "name": "california" }
+        ]
+      },
+      "name": "Californication (Deluxe Edition)",
+      "playcount": "10501370",
+      "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Californication+(Deluxe+Edition)",
+      "wiki": {}
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "listeners": "538919",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/426f10a255a07002b3702e4bc275ec44.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/426f10a255a07002b3702e4bc275ec44.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/426f10a255a07002b3702e4bc275ec44.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/426f10a255a07002b3702e4bc275ec44.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/426f10a255a07002b3702e4bc275ec44.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/426f10a255a07002b3702e4bc275ec44.jpg"
+        }
+      ],
+      "mbid": "",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/1990s", "name": "1990s" },
+          { "url": "https://www.last.fm/tag/sex", "name": "sex" },
+          { "url": "https://www.last.fm/tag/funk+rock", "name": "funk rock" },
+          {
+            "url": "https://www.last.fm/tag/mike+patton",
+            "name": "mike patton"
+          },
+          { "url": "https://www.last.fm/tag/mr+bungle", "name": "mr bungle" }
+        ]
+      },
+      "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+      "playcount": "6822274",
+      "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Blood+Sugar+Sex+Magik+(Deluxe+Edition)",
+      "wiki": {}
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "mbid": "117727ff-850f-4e7e-afd4-0bb95739eb41",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          { "url": "https://www.last.fm/tag/funk+rock", "name": "funk rock" },
+          {
+            "url": "https://www.last.fm/tag/alternative+rock",
+            "name": "alternative rock"
+          },
+          { "url": "https://www.last.fm/tag/funk", "name": "funk" },
+          { "url": "https://www.last.fm/tag/cover", "name": "cover" }
+        ]
+      },
+      "playcount": "6541350",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/c854bd8b109948a2b882d7b97b042583.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/c854bd8b109948a2b882d7b97b042583.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/c854bd8b109948a2b882d7b97b042583.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/c854bd8b109948a2b882d7b97b042583.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/c854bd8b109948a2b882d7b97b042583.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/c854bd8b109948a2b882d7b97b042583.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 356,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Mother%27s+Milk/Good+Time+Boys",
+            "name": "Good Time Boys",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 203,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Mother%27s+Milk/Higher+Ground",
+            "name": "Higher Ground",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 280,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Mother%27s+Milk/Subway+to+Venus",
+            "name": "Subway to Venus",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Mother%27s+Milk/Magic+Johnson",
+            "name": "Magic Johnson",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 332,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Mother%27s+Milk/Nobody+Weird+Like+Me",
+            "name": "Nobody Weird Like Me",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 223,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Mother%27s+Milk/Knock+Me+Down",
+            "name": "Knock Me Down",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 270,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Mother%27s+Milk/Taste+the+Pain",
+            "name": "Taste the Pain",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 216,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Mother%27s+Milk/Stone+Cold+Bush",
+            "name": "Stone Cold Bush",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Mother%27s+Milk/Fire",
+            "name": "Fire",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 165,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Mother%27s+Milk/Pretty+Little+Ditty",
+            "name": "Pretty Little Ditty",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 106,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Mother%27s+Milk/Punk+Rock+Classic",
+            "name": "Punk Rock Classic",
+            "@attr": { "rank": 11 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 212,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Mother%27s+Milk/Sexy+Mexican+Maid",
+            "name": "Sexy Mexican Maid",
+            "@attr": { "rank": 12 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 310,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Mother%27s+Milk/Johnny,+Kick+a+Hole+in+the+Sky",
+            "name": "Johnny, Kick a Hole in the Sky",
+            "@attr": { "rank": 13 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/Mother%27s+Milk",
+      "name": "Mother's Milk",
+      "listeners": "530626",
+      "wiki": {
+        "published": "08 Aug 2008, 10:07",
+        "summary": "Mother's Milk is the fourth studio album by American funk rock band Red Hot Chili Peppers. It was released on August 16, 1989. It has sold 2 million copies and certified double-platinum. Mother's Milk peaked at #52 on Billboard Top 200 album chart and it was certified gold by mid-1990 and platinum in 2005. The album produced three singles: \"Knock Me Down\", \"Higher Ground\" and \"Taste the Pain\". Though Mother's Milk is quite highly celebrated in the Red Hot Chili Pepper's fanbase, the band members have more than once expressed their mild dislike of the album. With the exception of <a href=\"https://www.last.fm/music/Red+Hot+Chili+Peppers/Mother%27s+Milk\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "mbid": "",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/2002", "name": "2002" },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          {
+            "url": "https://www.last.fm/tag/alternative+rock",
+            "name": "alternative rock"
+          },
+          { "url": "https://www.last.fm/tag/2000s", "name": "2000s" }
+        ]
+      },
+      "name": "By the Way (Deluxe Edition)",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/c648e20998c71c66b857d357d4fdbe24.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/c648e20998c71c66b857d357d4fdbe24.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/c648e20998c71c66b857d357d4fdbe24.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/c648e20998c71c66b857d357d4fdbe24.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/c648e20998c71c66b857d357d4fdbe24.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/c648e20998c71c66b857d357d4fdbe24.jpg"
+        }
+      ],
+      "listeners": "528200",
+      "playcount": "7801889",
+      "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/By+the+Way+(Deluxe+Edition)",
+      "wiki": {
+        "published": "01 Jan 2022, 03:07",
+        "summary": "By the Way is the eighth studio album by American funk rock band Red Hot Chili Peppers, released July 9, 2002, on Warner Bros. Records. It sold more than 286,000 copies in its first week, and peaked at number two on the Billboard 200. Singles included \"By the Way\", \"The Zephyr Song\", \"Can't Stop\", \"Dosed\" and \"Universally Speaking\". The lyrical subject matter vocalist Anthony Kiedis addresses in By the Way is a divergence from previous Red Hot Chili Peppers albums, with Kiedis taking a more candid and reflective approach to his lyrics. By the Way was lauded by critics as <a href=\"https://www.last.fm/music/Red+Hot+Chili+Peppers/By+the+Way+(Deluxe+Edition)\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "mbid": "1913928d-2516-4a0a-8095-9f9e5747fe58",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          { "url": "https://www.last.fm/tag/2011", "name": "2011" },
+          {
+            "url": "https://www.last.fm/tag/alternative+rock",
+            "name": "alternative rock"
+          },
+          { "url": "https://www.last.fm/tag/funk+rock", "name": "funk rock" },
+          {
+            "url": "https://www.last.fm/tag/alternative",
+            "name": "alternative"
+          }
+        ]
+      },
+      "playcount": "15245763",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/a9fc4edb16c940858581d4507f8ee523.png"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/a9fc4edb16c940858581d4507f8ee523.png"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/a9fc4edb16c940858581d4507f8ee523.png"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/a9fc4edb16c940858581d4507f8ee523.png"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/a9fc4edb16c940858581d4507f8ee523.png"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/a9fc4edb16c940858581d4507f8ee523.png"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 337,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/I%27m+With+You/Monarchy+of+Roses",
+            "name": "Monarchy of Roses",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 335,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/I%27m+With+You/Factory+of+Faith",
+            "name": "Factory of Faith",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 338,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/I%27m+With+You/Brendan%27s+Death+Song",
+            "name": "Brendan's Death Song",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 311,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/I%27m+With+You/Ethiopia",
+            "name": "Ethiopia",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 220,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/I%27m+With+You/Annie+Wants+a+Baby",
+            "name": "Annie Wants a Baby",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/I%27m+With+You/Look+Around",
+            "name": "Look Around",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 250,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/I%27m+With+You/The+Adventures+of+Rain+Dance+Maggie",
+            "name": "The Adventures of Rain Dance Maggie",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 261,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/I%27m+With+You/Did+I+Let+You+Know",
+            "name": "Did I Let You Know",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 232,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/I%27m+With+You/Goodbye+Hooray",
+            "name": "Goodbye Hooray",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 213,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/I%27m+With+You/Happiness+Loves+Company",
+            "name": "Happiness Loves Company",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 335,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/I%27m+With+You/Police+Station",
+            "name": "Police Station",
+            "@attr": { "rank": 11 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 241,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/I%27m+With+You/Even+You+Brutus%3F",
+            "name": "Even You Brutus?",
+            "@attr": { "rank": 12 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 319,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/I%27m+With+You/Meet+Me+at+the+Corner",
+            "name": "Meet Me at the Corner",
+            "@attr": { "rank": 13 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 225,
+            "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/I%27m+With+You/Dance,+Dance,+Dance",
+            "name": "Dance, Dance, Dance",
+            "@attr": { "rank": 14 },
+            "artist": {
+              "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers",
+              "name": "Red Hot Chili Peppers",
+              "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Red+Hot+Chili+Peppers/I%27m+With+You",
+      "name": "I'm With You",
+      "listeners": "480760",
+      "wiki": {
+        "published": "10 Oct 2011, 10:59",
+        "summary": "\"I'm With You\" is the tenth studio album by American rock band Red Hot Chili Peppers. The album was released by Warner Bros. Records on August 26, 2011 in several countries and on August 29 in the US, a day earlier than originally planned. Produced by Rick Rubin, it is the band's first studio album to feature guitarist Josh Klinghoffer, following the departure of John Frusciante in 2009, and is their first since Stadium Arcadium in 2006, marking the longest gap, to date, between studio albums. The album's first single, \"The Adventures of Rain Dance Maggie\" was released to radio <a href=\"https://www.last.fm/music/Red+Hot+Chili+Peppers/I%27m+With+You\">Read more on Last.fm</a>."
+      }
+    }
+  ]
+}

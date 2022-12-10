@@ -1,0 +1,635 @@
+{
+  "name": "SKYND",
+  "bio": "SKYND’s music is based around real-life darkness, often tied to serial killers and murder. The latest dark chapter of humanity to be serialised by Netflix is the case of Elisa Lam, the Canadian tourist who wound up at the Cecil Hotel in Los Angeles on her trek across California, where she tragically met her untimely end. The case took the internet by storm in 2013 after the release of the infamous ​‘elevator video’, and interest has piqued again following the premiere of The Vanishing At The Cecil Hotel earlier this month. <a href=\"https://www.last.fm/music/SKYND\">Read more on Last.fm</a>",
+  "tags": {
+    "tag": [
+      { "name": "industrial", "url": "https://www.last.fm/tag/industrial" },
+      { "name": "electronic", "url": "https://www.last.fm/tag/electronic" },
+      { "name": "seen live", "url": "https://www.last.fm/tag/seen+live" },
+      {
+        "name": "industrial rock",
+        "url": "https://www.last.fm/tag/industrial+rock"
+      },
+      {
+        "name": "electro-industrial",
+        "url": "https://www.last.fm/tag/electro-industrial"
+      }
+    ]
+  },
+  "albums": [
+    {
+      "artist": "SKYND",
+      "mbid": "7d24e7e3-ce5f-4596-81b1-09ce0c347b01",
+      "tags": {
+        "tag": [
+          {
+            "url": "https://www.last.fm/tag/industrial+metal",
+            "name": "industrial metal"
+          },
+          { "url": "https://www.last.fm/tag/electropop", "name": "electropop" },
+          {
+            "url": "https://www.last.fm/tag/industrial+rock",
+            "name": "industrial rock"
+          },
+          {
+            "url": "https://www.last.fm/tag/electro-industrial",
+            "name": "electro-industrial"
+          },
+          { "url": "https://www.last.fm/tag/industrial", "name": "industrial" }
+        ]
+      },
+      "name": "Chapter II",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/171ce22f1c920551b973f83e1c33fe8c.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/171ce22f1c920551b973f83e1c33fe8c.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/171ce22f1c920551b973f83e1c33fe8c.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/171ce22f1c920551b973f83e1c33fe8c.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/171ce22f1c920551b973f83e1c33fe8c.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/171ce22f1c920551b973f83e1c33fe8c.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/SKYND/Chapter+II/Jim+Jones",
+            "name": "Jim Jones",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/SKYND",
+              "name": "SKYND",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/SKYND/Chapter+II/Tyler+Hadley",
+            "name": "Tyler Hadley",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/SKYND",
+              "name": "SKYND",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/SKYND/Chapter+II/Katherine+Knight",
+            "name": "Katherine Knight",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/SKYND",
+              "name": "SKYND",
+              "mbid": ""
+            }
+          }
+        ]
+      },
+      "listeners": "20863",
+      "playcount": "251710",
+      "url": "https://www.last.fm/music/SKYND/Chapter+II",
+      "wiki": {}
+    },
+    {
+      "artist": "SKYND",
+      "mbid": "f8f442b4-6460-4470-8af0-95b956d80d10",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/electropop", "name": "electropop" },
+          {
+            "url": "https://www.last.fm/tag/industrial+metal",
+            "name": "industrial metal"
+          },
+          {
+            "url": "https://www.last.fm/tag/industrial+rock",
+            "name": "industrial rock"
+          },
+          {
+            "url": "https://www.last.fm/tag/electro-industrial",
+            "name": "electro-industrial"
+          },
+          { "url": "https://www.last.fm/tag/nu+metal", "name": "nu metal" }
+        ]
+      },
+      "name": "Chapter I",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/f7292cee7344cdeacde28c0518541d0b.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/f7292cee7344cdeacde28c0518541d0b.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/f7292cee7344cdeacde28c0518541d0b.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/f7292cee7344cdeacde28c0518541d0b.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/f7292cee7344cdeacde28c0518541d0b.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/f7292cee7344cdeacde28c0518541d0b.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/SKYND/Chapter+I/Elisa+Lam",
+            "name": "Elisa Lam",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/SKYND",
+              "name": "SKYND",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 313,
+            "url": "https://www.last.fm/music/SKYND+feat.Jonathan+Davis/Chapter+I/Gary+Heidnik",
+            "name": "Gary Heidnik",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/SKYND+feat.Jonathan+Davis",
+              "name": "SKYND feat.Jonathan Davis",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/SKYND/Chapter+I/Richard+Ramirez",
+            "name": "Richard Ramirez",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/SKYND",
+              "name": "SKYND",
+              "mbid": ""
+            }
+          }
+        ]
+      },
+      "listeners": "11855",
+      "playcount": "149062",
+      "url": "https://www.last.fm/music/SKYND/Chapter+I",
+      "wiki": {}
+    },
+    {
+      "artist": "SKYND",
+      "mbid": "1a7c19ba-6919-45ff-aa61-2058fd78d88c",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/industrial", "name": "industrial" },
+          { "url": "https://www.last.fm/tag/electronic", "name": "electronic" },
+          {
+            "url": "https://www.last.fm/tag/industrial+rock",
+            "name": "industrial rock"
+          },
+          {
+            "url": "https://www.last.fm/tag/switzerland",
+            "name": "switzerland"
+          },
+          { "url": "https://www.last.fm/tag/swiss", "name": "swiss" }
+        ]
+      },
+      "name": "Michelle Carter",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/882f7080cc6fa958519157197189fedc.png"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/882f7080cc6fa958519157197189fedc.png"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/882f7080cc6fa958519157197189fedc.png"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/882f7080cc6fa958519157197189fedc.png"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/882f7080cc6fa958519157197189fedc.png"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/882f7080cc6fa958519157197189fedc.png"
+        }
+      ],
+      "tracks": {
+        "track": {
+          "streamable": { "fulltrack": "0", "text": "0" },
+          "duration": 298,
+          "url": "https://www.last.fm/music/SKYND/Michelle+Carter/Michelle+Carter",
+          "name": "Michelle Carter",
+          "@attr": { "rank": 1 },
+          "artist": {
+            "url": "https://www.last.fm/music/SKYND",
+            "name": "SKYND",
+            "mbid": ""
+          }
+        }
+      },
+      "listeners": "6927",
+      "playcount": "57479",
+      "url": "https://www.last.fm/music/SKYND/Michelle+Carter",
+      "wiki": {}
+    },
+    {
+      "artist": "SKYND",
+      "listeners": "6731",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/07a9e5c230b24b729c39a8013904a73c.png"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/07a9e5c230b24b729c39a8013904a73c.png"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/07a9e5c230b24b729c39a8013904a73c.png"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/07a9e5c230b24b729c39a8013904a73c.png"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/07a9e5c230b24b729c39a8013904a73c.png"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/07a9e5c230b24b729c39a8013904a73c.png"
+        }
+      ],
+      "mbid": "",
+      "tags": "",
+      "name": "Columbine (feat. Bill $Aber)",
+      "playcount": "56817",
+      "url": "https://www.last.fm/music/SKYND/Columbine+(feat.+Bill+$Aber)",
+      "wiki": {}
+    },
+    {
+      "artist": "SKYND",
+      "mbid": "",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/industrial", "name": "industrial" },
+          { "url": "https://www.last.fm/tag/electronic", "name": "electronic" },
+          {
+            "url": "https://www.last.fm/tag/industrial+rock",
+            "name": "industrial rock"
+          },
+          {
+            "url": "https://www.last.fm/tag/switzerland",
+            "name": "switzerland"
+          },
+          { "url": "https://www.last.fm/tag/swiss", "name": "swiss" }
+        ]
+      },
+      "name": "Jim Jones",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/640788e0761a93fe2ae8fe93336c1d4a.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/640788e0761a93fe2ae8fe93336c1d4a.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/640788e0761a93fe2ae8fe93336c1d4a.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/640788e0761a93fe2ae8fe93336c1d4a.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/640788e0761a93fe2ae8fe93336c1d4a.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/640788e0761a93fe2ae8fe93336c1d4a.jpg"
+        }
+      ],
+      "tracks": {
+        "track": {
+          "streamable": { "fulltrack": "0", "text": "0" },
+          "duration": null,
+          "url": "https://www.last.fm/music/SKYND/Jim+Jones/Jim+Jones",
+          "name": "Jim Jones",
+          "@attr": { "rank": 1 },
+          "artist": {
+            "url": "https://www.last.fm/music/SKYND",
+            "name": "SKYND",
+            "mbid": ""
+          }
+        }
+      },
+      "listeners": "5758",
+      "playcount": "32425",
+      "url": "https://www.last.fm/music/SKYND/Jim+Jones",
+      "wiki": {}
+    },
+    {
+      "artist": "SKYND",
+      "mbid": "",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/industrial", "name": "industrial" },
+          { "url": "https://www.last.fm/tag/electronic", "name": "electronic" },
+          {
+            "url": "https://www.last.fm/tag/industrial+rock",
+            "name": "industrial rock"
+          },
+          {
+            "url": "https://www.last.fm/tag/switzerland",
+            "name": "switzerland"
+          },
+          { "url": "https://www.last.fm/tag/swiss", "name": "swiss" }
+        ]
+      },
+      "name": "Gary Heidnik (feat. Jonathan Davis)",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/fb182e11a1a974fd78dc6337e20cf76e.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/fb182e11a1a974fd78dc6337e20cf76e.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/fb182e11a1a974fd78dc6337e20cf76e.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb182e11a1a974fd78dc6337e20cf76e.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb182e11a1a974fd78dc6337e20cf76e.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/fb182e11a1a974fd78dc6337e20cf76e.jpg"
+        }
+      ],
+      "tracks": {
+        "track": {
+          "streamable": { "fulltrack": "0", "text": "0" },
+          "duration": 313,
+          "url": "https://www.last.fm/music/SKYND/Gary+Heidnik+(feat.+Jonathan+Davis)/Gary+Heidnik+(feat.+Jonathan+Davis)",
+          "name": "Gary Heidnik (feat. Jonathan Davis)",
+          "@attr": { "rank": 1 },
+          "artist": {
+            "url": "https://www.last.fm/music/SKYND",
+            "name": "SKYND",
+            "mbid": ""
+          }
+        }
+      },
+      "listeners": "3986",
+      "playcount": "32485",
+      "url": "https://www.last.fm/music/SKYND/Gary+Heidnik+(feat.+Jonathan+Davis)",
+      "wiki": {}
+    },
+    {
+      "artist": "SKYND",
+      "mbid": "",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/industrial", "name": "industrial" },
+          { "url": "https://www.last.fm/tag/electronic", "name": "electronic" },
+          {
+            "url": "https://www.last.fm/tag/industrial+rock",
+            "name": "industrial rock"
+          },
+          {
+            "url": "https://www.last.fm/tag/switzerland",
+            "name": "switzerland"
+          },
+          { "url": "https://www.last.fm/tag/swiss", "name": "swiss" }
+        ]
+      },
+      "name": "Columbine",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/786335eb4d023e1296249c3c568206aa.png"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/786335eb4d023e1296249c3c568206aa.png"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/786335eb4d023e1296249c3c568206aa.png"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/786335eb4d023e1296249c3c568206aa.png"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/786335eb4d023e1296249c3c568206aa.png"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/786335eb4d023e1296249c3c568206aa.png"
+        }
+      ],
+      "tracks": {
+        "track": {
+          "streamable": { "fulltrack": "0", "text": "0" },
+          "duration": 296,
+          "url": "https://www.last.fm/music/SKYND/Columbine/Columbine",
+          "name": "Columbine",
+          "@attr": { "rank": 1 },
+          "artist": {
+            "url": "https://www.last.fm/music/SKYND",
+            "name": "SKYND",
+            "mbid": ""
+          }
+        }
+      },
+      "listeners": "3599",
+      "playcount": "18058",
+      "url": "https://www.last.fm/music/SKYND/Columbine",
+      "wiki": {}
+    },
+    {
+      "artist": "SKYND",
+      "listeners": "3280",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/0ff050d3d2abe6ac9ae62ce573fbac96.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/0ff050d3d2abe6ac9ae62ce573fbac96.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/0ff050d3d2abe6ac9ae62ce573fbac96.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/0ff050d3d2abe6ac9ae62ce573fbac96.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/0ff050d3d2abe6ac9ae62ce573fbac96.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/0ff050d3d2abe6ac9ae62ce573fbac96.jpg"
+        }
+      ],
+      "mbid": "",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/industrial", "name": "industrial" },
+          {
+            "url": "https://www.last.fm/tag/industrial+metal",
+            "name": "industrial metal"
+          },
+          { "url": "https://www.last.fm/tag/electropop", "name": "electropop" },
+          {
+            "url": "https://www.last.fm/tag/industrial+rock",
+            "name": "industrial rock"
+          },
+          { "url": "https://www.last.fm/tag/darkwave", "name": "darkwave" }
+        ]
+      },
+      "name": "Chapter 1",
+      "playcount": "27863",
+      "url": "https://www.last.fm/music/SKYND/Chapter+1",
+      "wiki": {}
+    },
+    {
+      "artist": "SKYND",
+      "mbid": "",
+      "tags": "",
+      "name": "Chris Watts",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/baaf330b10a99040eb77e9bf97296926.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/baaf330b10a99040eb77e9bf97296926.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/baaf330b10a99040eb77e9bf97296926.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/baaf330b10a99040eb77e9bf97296926.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/baaf330b10a99040eb77e9bf97296926.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/baaf330b10a99040eb77e9bf97296926.jpg"
+        }
+      ],
+      "tracks": {
+        "track": {
+          "streamable": { "fulltrack": "0", "text": "0" },
+          "duration": 278,
+          "url": "https://www.last.fm/music/SKYND/Chris+Watts/Chris+Watts",
+          "name": "Chris Watts",
+          "@attr": { "rank": 1 },
+          "artist": {
+            "url": "https://www.last.fm/music/SKYND",
+            "name": "SKYND",
+            "mbid": ""
+          }
+        }
+      },
+      "listeners": "2878",
+      "playcount": "14620",
+      "url": "https://www.last.fm/music/SKYND/Chris+Watts",
+      "wiki": {}
+    },
+    {
+      "artist": "SKYND",
+      "listeners": "2781",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/695fbe26f80c429dc8ece78a185d9161.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/695fbe26f80c429dc8ece78a185d9161.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/695fbe26f80c429dc8ece78a185d9161.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/695fbe26f80c429dc8ece78a185d9161.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/695fbe26f80c429dc8ece78a185d9161.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/695fbe26f80c429dc8ece78a185d9161.jpg"
+        }
+      ],
+      "mbid": "",
+      "tags": "",
+      "name": "Elisa Lam",
+      "playcount": "19272",
+      "url": "https://www.last.fm/music/SKYND/Elisa+Lam",
+      "wiki": {}
+    }
+  ]
+}

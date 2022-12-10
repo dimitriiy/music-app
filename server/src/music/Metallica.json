@@ -1,0 +1,2053 @@
+{
+  "name": "Metallica",
+  "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+  "bio": "Metallica is an American heavy metal band. The band was formed in 1981 in San Francisco by vocalist/guitarist James Hetfield and drummer Lars Ulrich and has been based in San Francisco for most of its career. The band's fast tempos, instrumentals, and aggressive musicianship made them one of the founding \"big four\" bands of thrash metal, alongside Megadeth, Anthrax, and Slayer. Metallica's current lineup comprises founding members, primary songwriters Hetfield, Ulrich, longtime lead guitarist Kirk Hammett, and bassist Robert Trujillo. <a href=\"https://www.last.fm/music/Metallica\">Read more on Last.fm</a>",
+  "tags": {
+    "tag": [
+      { "name": "thrash metal", "url": "https://www.last.fm/tag/thrash+metal" },
+      { "name": "metal", "url": "https://www.last.fm/tag/metal" },
+      { "name": "heavy metal", "url": "https://www.last.fm/tag/heavy+metal" },
+      { "name": "hard rock", "url": "https://www.last.fm/tag/hard+rock" },
+      { "name": "rock", "url": "https://www.last.fm/tag/rock" }
+    ]
+  },
+  "albums": [
+    {
+      "artist": "Metallica",
+      "mbid": "05678d96-23f6-4dae-b994-53c3ff4dede0",
+      "tags": {
+        "tag": [
+          {
+            "url": "https://www.last.fm/tag/heavy+metal",
+            "name": "heavy metal"
+          },
+          { "url": "https://www.last.fm/tag/metal", "name": "metal" },
+          {
+            "url": "https://www.last.fm/tag/thrash+metal",
+            "name": "thrash metal"
+          },
+          { "url": "https://www.last.fm/tag/hard+rock", "name": "hard rock" },
+          { "url": "https://www.last.fm/tag/metallica", "name": "metallica" }
+        ]
+      },
+      "playcount": "36514697",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/2adc3b653c5465d560b2d8cb95d8a974.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/2adc3b653c5465d560b2d8cb95d8a974.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/2adc3b653c5465d560b2d8cb95d8a974.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/2adc3b653c5465d560b2d8cb95d8a974.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/2adc3b653c5465d560b2d8cb95d8a974.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/2adc3b653c5465d560b2d8cb95d8a974.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Metallica/Enter+Sandman",
+            "name": "Enter Sandman",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Metallica/Sad+but+True",
+            "name": "Sad but True",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Metallica/Holier+Than+Thou",
+            "name": "Holier Than Thou",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Metallica/The+Unforgiven",
+            "name": "The Unforgiven",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Metallica/Wherever+I+May+Roam",
+            "name": "Wherever I May Roam",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 262,
+            "url": "https://www.last.fm/music/Metallica/Metallica/Don%27t+Tread+on+Me",
+            "name": "Don't Tread on Me",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 238,
+            "url": "https://www.last.fm/music/Metallica/Metallica/Through+the+Never",
+            "name": "Through the Never",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Metallica/Nothing+Else+Matters",
+            "name": "Nothing Else Matters",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Metallica/Of+Wolf+and+Man",
+            "name": "Of Wolf and Man",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 364,
+            "url": "https://www.last.fm/music/Metallica/Metallica/The+God+That+Failed",
+            "name": "The God That Failed",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 484,
+            "url": "https://www.last.fm/music/Metallica/Metallica/My+Friend+of+Misery",
+            "name": "My Friend of Misery",
+            "@attr": { "rank": 11 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 257,
+            "url": "https://www.last.fm/music/Metallica/Metallica/The+Struggle+Within",
+            "name": "The Struggle Within",
+            "@attr": { "rank": 12 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Metallica/Metallica",
+      "name": "Metallica",
+      "listeners": "1600150",
+      "wiki": {
+        "published": "05 May 2019, 22:36",
+        "summary": "Metallica (also known as The Black Album) is the fifth studio album by the American heavy metal band Metallica, released August 12, 1991 through Elektra Records. It features some of Metallica's most popular songs, \"Enter Sandman\", \"The Unforgiven\", \"Nothing Else Matters\" , \"Wherever I May Roam\" and \"Sad but True\". It spent four consecutive weeks at number one on Billboard 200. Metallica is the band's best-selling album to date, with over 16 million physical copies sold in the United States and over 31 million copies worldwide. It is the best-selling album of the SoundScan era. The album cover features only <a href=\"https://www.last.fm/music/Metallica/Metallica\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Metallica",
+      "mbid": "03e4ebe1-0a44-411c-8e19-78e0768603f8",
+      "tags": {
+        "tag": [
+          {
+            "url": "https://www.last.fm/tag/thrash+metal",
+            "name": "thrash metal"
+          },
+          { "url": "https://www.last.fm/tag/metal", "name": "metal" },
+          {
+            "url": "https://www.last.fm/tag/heavy+metal",
+            "name": "heavy metal"
+          },
+          { "url": "https://www.last.fm/tag/1986", "name": "1986" },
+          { "url": "https://www.last.fm/tag/metallica", "name": "metallica" }
+        ]
+      },
+      "playcount": "23163041",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/07f492a00c904cc6ccf868010be4d5a6.png"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/07f492a00c904cc6ccf868010be4d5a6.png"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/07f492a00c904cc6ccf868010be4d5a6.png"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/07f492a00c904cc6ccf868010be4d5a6.png"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/07f492a00c904cc6ccf868010be4d5a6.png"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/07f492a00c904cc6ccf868010be4d5a6.png"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Master+of+Puppets/Battery",
+            "name": "Battery",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Master+of+Puppets/Master+of+Puppets",
+            "name": "Master of Puppets",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Master+of+Puppets/The+Thing+That+Should+Not+Be",
+            "name": "The Thing That Should Not Be",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Master+of+Puppets/Welcome+Home+(Sanitarium)",
+            "name": "Welcome Home (Sanitarium)",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 506,
+            "url": "https://www.last.fm/music/Metallica/Master+of+Puppets/Disposable+Heroes",
+            "name": "Disposable Heroes",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Master+of+Puppets/Leper+Messiah",
+            "name": "Leper Messiah",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Master+of+Puppets/Orion",
+            "name": "Orion",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 364,
+            "url": "https://www.last.fm/music/Metallica/Master+of+Puppets/Damage,+Inc.",
+            "name": "Damage, Inc.",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Metallica/Master+of+Puppets",
+      "name": "Master of Puppets",
+      "listeners": "989306",
+      "wiki": {
+        "published": "12 Dec 2008, 04:54",
+        "summary": "Master of Puppets is the third studio album by American heavy metal band Metallica. The album was recorded in 1985 and released by Elektra Records on March 3, 1986 in North America. Now widely considered a classic of thrash metal, the album proved to be a modest commercial success upon its release by reaching #29 on the U.S. Billboard 200, making it the very first thrash metal album to crack the Top 40. With the band's rising popularity from the release of Metallica, awareness of the album has increased, and according to the RIAA, it has sold over six million <a href=\"https://www.last.fm/music/Metallica/Master+of+Puppets\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Metallica",
+      "mbid": "d6123cc0-b035-443f-8176-1fafdda66129",
+      "tags": {
+        "tag": [
+          {
+            "url": "https://www.last.fm/tag/thrash+metal",
+            "name": "thrash metal"
+          },
+          {
+            "url": "https://www.last.fm/tag/heavy+metal",
+            "name": "heavy metal"
+          },
+          { "url": "https://www.last.fm/tag/metal", "name": "metal" },
+          { "url": "https://www.last.fm/tag/1988", "name": "1988" },
+          { "url": "https://www.last.fm/tag/metallica", "name": "metallica" }
+        ]
+      },
+      "playcount": "17137193",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/db0fbd5c1f3532682c5f3798cd330c92.png"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/db0fbd5c1f3532682c5f3798cd330c92.png"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/db0fbd5c1f3532682c5f3798cd330c92.png"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/db0fbd5c1f3532682c5f3798cd330c92.png"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/db0fbd5c1f3532682c5f3798cd330c92.png"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/db0fbd5c1f3532682c5f3798cd330c92.png"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/...and+Justice+for+All/Blackened",
+            "name": "Blackened",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/...and+Justice+for+All/...and+Justice+for+All",
+            "name": "...and Justice for All",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/...and+Justice+for+All/Eye+of+the+Beholder",
+            "name": "Eye of the Beholder",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/...and+Justice+for+All/One",
+            "name": "One",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/...and+Justice+for+All/The+Shortest+Straw",
+            "name": "The Shortest Straw",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/...and+Justice+for+All/Harvester+of+Sorrow",
+            "name": "Harvester of Sorrow",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 138,
+            "url": "https://www.last.fm/music/Metallica/...and+Justice+for+All/The+Frayed+Ends+of+Sanity",
+            "name": "The Frayed Ends of Sanity",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/...and+Justice+for+All/To+Live+Is+to+Die",
+            "name": "To Live Is to Die",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/...and+Justice+for+All/Dyers+Eve",
+            "name": "Dyers Eve",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Metallica/...and+Justice+for+All",
+      "name": "...and Justice for All",
+      "listeners": "836556",
+      "wiki": {
+        "published": "12 Dec 2008, 04:04",
+        "summary": "...And Justice for All is the fourth studio album by American heavy metal band Metallica. Elektra Records released the album on August 25, 1988. This is the first Metallica studio album to feature bassist Jason Newsted, since it is the first after the tragic death of the group's former bassist Cliff Burton. The album's dark subject material, featuring references to nuclear apocalypse, injustice in the law system, limited freedom, war, insanity and hate, is accompanied by the most complex song structures to this date in Metallica's discography. The album is also noted for its near lack of bass guitar and <a href=\"https://www.last.fm/music/Metallica/...and+Justice+for+All\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Metallica",
+      "mbid": "0877d3eb-5d80-4e7d-b5d4-eb36d4dbc3ce",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/hard+rock", "name": "hard rock" },
+          {
+            "url": "https://www.last.fm/tag/heavy+metal",
+            "name": "heavy metal"
+          },
+          { "url": "https://www.last.fm/tag/metal", "name": "metal" },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          {
+            "url": "https://www.last.fm/tag/thrash+metal",
+            "name": "thrash metal"
+          }
+        ]
+      },
+      "playcount": "17230467",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/fe8459ee7bc8b4be77c9f2eac5f2fee9.png"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/fe8459ee7bc8b4be77c9f2eac5f2fee9.png"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/fe8459ee7bc8b4be77c9f2eac5f2fee9.png"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/fe8459ee7bc8b4be77c9f2eac5f2fee9.png"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/fe8459ee7bc8b4be77c9f2eac5f2fee9.png"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/fe8459ee7bc8b4be77c9f2eac5f2fee9.png"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Reload/Fuel",
+            "name": "Fuel",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Reload/The+Memory+Remains",
+            "name": "The Memory Remains",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 356,
+            "url": "https://www.last.fm/music/Metallica/Reload/Devil%27s+Dance",
+            "name": "Devil's Dance",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 393,
+            "url": "https://www.last.fm/music/Metallica/Reload/The+Unforgiven+II",
+            "name": "The Unforgiven II",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Reload/Better+Than+You",
+            "name": "Better Than You",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Reload/Slither",
+            "name": "Slither",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Reload/Carpe+Diem+Baby",
+            "name": "Carpe Diem Baby",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Reload/Bad+Seed",
+            "name": "Bad Seed",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Reload/Where+the+Wild+Things+Are",
+            "name": "Where the Wild Things Are",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 363,
+            "url": "https://www.last.fm/music/Metallica/Reload/Prince+Charming",
+            "name": "Prince Charming",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 440,
+            "url": "https://www.last.fm/music/Metallica/Reload/Low+Man%27s+Lyric",
+            "name": "Low Man's Lyric",
+            "@attr": { "rank": 11 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Reload/Attitude",
+            "name": "Attitude",
+            "@attr": { "rank": 12 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 518,
+            "url": "https://www.last.fm/music/Metallica/Reload/Fixxxer",
+            "name": "Fixxxer",
+            "@attr": { "rank": 13 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Metallica/Reload",
+      "name": "Reload",
+      "listeners": "835630",
+      "wiki": {
+        "published": "03 Mar 2010, 19:28",
+        "summary": "ReLoad is the seventh album by American heavy metal band Metallica, released November 18, 1997. The album is a direct sequel or counterpart to the band's previous album, Load. Drummer Lars Ulrich stated that: \"it's the second half of Load. It's just coming out a year-and-a-half later.\" To date, the album has sold over 4 million copies in the US, and is certified Gold in the UK, having sold over 100,000 copies. The original idea was to make Metallica's seventh album, a double album. But with problems recording so many songs at one time, the band decided that half of <a href=\"https://www.last.fm/music/Metallica/Reload\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Metallica",
+      "mbid": "02c7dd82-fb1b-4004-8389-62d92f80e9a6",
+      "tags": {
+        "tag": [
+          {
+            "url": "https://www.last.fm/tag/thrash+metal",
+            "name": "thrash metal"
+          },
+          {
+            "url": "https://www.last.fm/tag/heavy+metal",
+            "name": "heavy metal"
+          },
+          { "url": "https://www.last.fm/tag/metal", "name": "metal" },
+          { "url": "https://www.last.fm/tag/1984", "name": "1984" },
+          { "url": "https://www.last.fm/tag/metallica", "name": "metallica" }
+        ]
+      },
+      "playcount": "19877939",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/bc25b0c3481cb9f283625453c3ca96ec.png"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/bc25b0c3481cb9f283625453c3ca96ec.png"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/bc25b0c3481cb9f283625453c3ca96ec.png"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/bc25b0c3481cb9f283625453c3ca96ec.png"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/bc25b0c3481cb9f283625453c3ca96ec.png"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/bc25b0c3481cb9f283625453c3ca96ec.png"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Ride+the+Lightning/Fight+Fire+With+Fire",
+            "name": "Fight Fire With Fire",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Ride+the+Lightning/Ride+the+Lightning",
+            "name": "Ride the Lightning",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Ride+the+Lightning/For+Whom+the+Bell+Tolls",
+            "name": "For Whom the Bell Tolls",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Ride+the+Lightning/Fade+to+Black",
+            "name": "Fade to Black",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 286,
+            "url": "https://www.last.fm/music/Metallica/Ride+the+Lightning/Trapped+Under+Ice",
+            "name": "Trapped Under Ice",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 393,
+            "url": "https://www.last.fm/music/Metallica/Ride+the+Lightning/Escape",
+            "name": "Escape",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Ride+the+Lightning/Creeping+Death",
+            "name": "Creeping Death",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 484,
+            "url": "https://www.last.fm/music/Metallica/Ride+the+Lightning/The+Call+of+Ktulu",
+            "name": "The Call of Ktulu",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Metallica/Ride+the+Lightning",
+      "name": "Ride the Lightning",
+      "listeners": "824478",
+      "wiki": {
+        "published": "03 Mar 2010, 19:36",
+        "summary": "Ride The Lightning is the second album by thrash metal band Metallica. It was released on July 27, 1984 by Megaforce Records. It was re-released in the same year on November 19 by Elektra records. In the United States alone Ride The Lightning has sold over 5 million copies. Ride the Lightning is often hailed by fans as a classic of the thrash metal genre and a vital bridge between the band's albums Kill 'Em All and Master of Puppets, pushing the thrash metal of the debut into progressive territory more fully-realized on \"Master of Puppets\" and \"...And Justice for <a href=\"https://www.last.fm/music/Metallica/Ride+the+Lightning\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Metallica",
+      "mbid": "2fa04d92-5ef0-4be6-b72a-677b5a3214a0",
+      "tags": {
+        "tag": [
+          {
+            "url": "https://www.last.fm/tag/thrash+metal",
+            "name": "thrash metal"
+          },
+          {
+            "url": "https://www.last.fm/tag/heavy+metal",
+            "name": "heavy metal"
+          },
+          { "url": "https://www.last.fm/tag/metal", "name": "metal" },
+          { "url": "https://www.last.fm/tag/2008", "name": "2008" },
+          { "url": "https://www.last.fm/tag/metallica", "name": "metallica" }
+        ]
+      },
+      "playcount": "22371007",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/bb80178de028c2e7b1897ff87cbdd58e.png"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/bb80178de028c2e7b1897ff87cbdd58e.png"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/bb80178de028c2e7b1897ff87cbdd58e.png"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/bb80178de028c2e7b1897ff87cbdd58e.png"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/bb80178de028c2e7b1897ff87cbdd58e.png"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/bb80178de028c2e7b1897ff87cbdd58e.png"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Death+Magnetic/That+Was+Just+Your+Life",
+            "name": "That Was Just Your Life",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Death+Magnetic/The+End+of+the+Line",
+            "name": "The End of the Line",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Death+Magnetic/Broken,+Beat+&+Scarred",
+            "name": "Broken, Beat & Scarred",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Death+Magnetic/The+Day+That+Never+Comes",
+            "name": "The Day That Never Comes",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Death+Magnetic/All+Nightmare+Long",
+            "name": "All Nightmare Long",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Death+Magnetic/Cyanide",
+            "name": "Cyanide",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Death+Magnetic/The+Unforgiven+III",
+            "name": "The Unforgiven III",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 479,
+            "url": "https://www.last.fm/music/Metallica/Death+Magnetic/The+Judas+Kiss",
+            "name": "The Judas Kiss",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Death+Magnetic/Suicide+&+Redemption",
+            "name": "Suicide & Redemption",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Death+Magnetic/My+Apocalypse",
+            "name": "My Apocalypse",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Metallica/Death+Magnetic",
+      "name": "Death Magnetic",
+      "listeners": "685026",
+      "wiki": {
+        "published": "05 May 2016, 09:50",
+        "summary": "Death Magnetic was released on September 12, 2008. Metallica's ninth studio album, it was the first to be produced by Rick Rubin. It was recorded April 2007–May 2008. It is the band's first studio album to feature current bassist Robert Trujillo. Death Magnetic is also the band's first studio album released through Warner Bros. Records, although they still remain with Warner Music Group, which also owns their previous label, Elektra Records. Outside of North America, they are distributed by Universal Music Group as they remain signed to Vertigo Records in the United Kingdom. The album was well received by fans <a href=\"https://www.last.fm/music/Metallica/Death+Magnetic\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Metallica",
+      "mbid": "08b278ec-b23e-46d5-9d75-37992e841ef6",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/hard+rock", "name": "hard rock" },
+          {
+            "url": "https://www.last.fm/tag/heavy+metal",
+            "name": "heavy metal"
+          },
+          { "url": "https://www.last.fm/tag/metal", "name": "metal" },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          { "url": "https://www.last.fm/tag/metallica", "name": "metallica" }
+        ]
+      },
+      "playcount": "16340718",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/c32d240ba59d4491ba5ce25939cba1ab.png"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/c32d240ba59d4491ba5ce25939cba1ab.png"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/c32d240ba59d4491ba5ce25939cba1ab.png"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/c32d240ba59d4491ba5ce25939cba1ab.png"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/c32d240ba59d4491ba5ce25939cba1ab.png"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/c32d240ba59d4491ba5ce25939cba1ab.png"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 303,
+            "url": "https://www.last.fm/music/Metallica/Load/Ain%27t+My+Bitch",
+            "name": "Ain't My Bitch",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Load/2+X+4",
+            "name": "2 X 4",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Load/The+House+Jack+Built",
+            "name": "The House Jack Built",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 270,
+            "url": "https://www.last.fm/music/Metallica/Load/Until+It+Sleeps",
+            "name": "Until It Sleeps",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Load/King+Nothing",
+            "name": "King Nothing",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Load/Hero+of+the+Day",
+            "name": "Hero of the Day",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Load/Bleeding+Me",
+            "name": "Bleeding Me",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Load/Cure",
+            "name": "Cure",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 220,
+            "url": "https://www.last.fm/music/Metallica/Load/Poor+Twisted+Me",
+            "name": "Poor Twisted Me",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Load/Wasting+My+Hate",
+            "name": "Wasting My Hate",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Load/Mama+Said",
+            "name": "Mama Said",
+            "@attr": { "rank": 11 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Load/Thorn+Within",
+            "name": "Thorn Within",
+            "@attr": { "rank": 12 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Load/Ronnie",
+            "name": "Ronnie",
+            "@attr": { "rank": 13 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Load/The+Outlaw+Torn",
+            "name": "The Outlaw Torn",
+            "@attr": { "rank": 14 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Metallica/Load",
+      "name": "Load",
+      "listeners": "645877",
+      "wiki": {
+        "published": "06 Jun 2014, 22:51",
+        "summary": "Load is the sixth studio album by American heavy metal band Metallica, released June 4, 1996. To date, the album has sold over 5 million copies in America, and is certified Gold in the UK, having sold over 100,000 copies. It spent four consecutive weeks at #1 on Billboard 200. At 78:59 minutes, Load is Metallica's longest studio album. Initial pressings of the album were affixed with stickers that boasted its long playtime, simply reading \"78:59\". Consequently, \"The Outlaw Torn\" had to be shortened by about one minute to fit on the album. The full version was released on a <a href=\"https://www.last.fm/music/Metallica/Load\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Metallica",
+      "mbid": "0d099294-ec29-4d0b-821d-202a32c85a14",
+      "tags": {
+        "tag": [
+          {
+            "url": "https://www.last.fm/tag/thrash+metal",
+            "name": "thrash metal"
+          },
+          {
+            "url": "https://www.last.fm/tag/speed+metal",
+            "name": "speed metal"
+          },
+          { "url": "https://www.last.fm/tag/metal", "name": "metal" },
+          {
+            "url": "https://www.last.fm/tag/heavy+metal",
+            "name": "heavy metal"
+          },
+          { "url": "https://www.last.fm/tag/metallica", "name": "metallica" }
+        ]
+      },
+      "playcount": "14703522",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/9849e2dc2f048cc92a87e29a3a3298db.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/9849e2dc2f048cc92a87e29a3a3298db.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/9849e2dc2f048cc92a87e29a3a3298db.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/9849e2dc2f048cc92a87e29a3a3298db.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/9849e2dc2f048cc92a87e29a3a3298db.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/9849e2dc2f048cc92a87e29a3a3298db.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 253,
+            "url": "https://www.last.fm/music/Metallica/Kill+%27Em+All/Hit+the+Lights",
+            "name": "Hit the Lights",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Kill+%27Em+All/The+Four+Horsemen",
+            "name": "The Four Horsemen",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 192,
+            "url": "https://www.last.fm/music/Metallica/Kill+%27Em+All/Motorbreath",
+            "name": "Motorbreath",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 223,
+            "url": "https://www.last.fm/music/Metallica/Kill+%27Em+All/Jump+in+the+Fire",
+            "name": "Jump in the Fire",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Kill+%27Em+All/(Anesthesia)+Pulling+Teeth",
+            "name": "(Anesthesia) Pulling Teeth",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Kill+%27Em+All/Whiplash",
+            "name": "Whiplash",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 207,
+            "url": "https://www.last.fm/music/Metallica/Kill+%27Em+All/Phantom+Lord",
+            "name": "Phantom Lord",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Kill+%27Em+All/No+Remorse",
+            "name": "No Remorse",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Kill+%27Em+All/Seek+&+Destroy",
+            "name": "Seek & Destroy",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Kill+%27Em+All/Metal+Militia",
+            "name": "Metal Militia",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Metallica/Kill+%27Em+All",
+      "name": "Kill 'Em All",
+      "listeners": "597684",
+      "wiki": {
+        "published": "05 May 2015, 13:24",
+        "summary": "Kill 'Em All is Metallica's first studio album. Some of the songs were written by a different line-up than the musicians that played the songs in the studio. It was recorded at Music America Studios, Rochester, New York. It was released by Megaforce on July 29, 1983 and later re-released by Elektra records. Before Kill 'Em All was recorded, the songs were written and recorded as demos by James Hetfield, Lloyd Grant, Ron McGovney and Lars Ulrich. On later demos, featuring the first full tracks that would appear on Kill 'Em All, Dave Mustaine took Lloyd's place and Ron was <a href=\"https://www.last.fm/music/Metallica/Kill+%27Em+All\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Metallica",
+      "mbid": "1dc3de77-4acc-40ec-ae07-48f4c45f48eb",
+      "tags": {
+        "tag": [
+          {
+            "url": "https://www.last.fm/tag/heavy+metal",
+            "name": "heavy metal"
+          },
+          { "url": "https://www.last.fm/tag/hard+rock", "name": "hard rock" },
+          { "url": "https://www.last.fm/tag/metal", "name": "metal" },
+          {
+            "url": "https://www.last.fm/tag/thrash+metal",
+            "name": "thrash metal"
+          },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" }
+        ]
+      },
+      "playcount": "10896071",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/10a33bff80955b5125c1b3afda7c5860.png"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/10a33bff80955b5125c1b3afda7c5860.png"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/10a33bff80955b5125c1b3afda7c5860.png"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/10a33bff80955b5125c1b3afda7c5860.png"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/10a33bff80955b5125c1b3afda7c5860.png"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/10a33bff80955b5125c1b3afda7c5860.png"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./Free+Speech+for+the+Dumb",
+            "name": "Free Speech for the Dumb",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./It%27s+Electric",
+            "name": "It's Electric",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 445,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./Sabbra+Cadabra",
+            "name": "Sabbra Cadabra",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./Turn+the+Page",
+            "name": "Turn the Page",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 146,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./Die,+Die+My+Darling",
+            "name": "Die, Die My Darling",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./Loverman",
+            "name": "Loverman",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 375,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./Mercyful+Fate",
+            "name": "Mercyful Fate",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./Astronomy",
+            "name": "Astronomy",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 355,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./Whiskey+in+the+Jar",
+            "name": "Whiskey in the Jar",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 531,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./Tuesday%27s+Gone",
+            "name": "Tuesday's Gone",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./The+More+I+See",
+            "name": "The More I See",
+            "@attr": { "rank": 11 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 257,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./Helpless",
+            "name": "Helpless",
+            "@attr": { "rank": 12 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 425,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./The+Small+Hours",
+            "name": "The Small Hours",
+            "@attr": { "rank": 13 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 389,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./The+Wait",
+            "name": "The Wait",
+            "@attr": { "rank": 14 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./Crash+Course+in+Brain+Surgery",
+            "name": "Crash Course in Brain Surgery",
+            "@attr": { "rank": 15 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 428,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./Last+Caress%2FGreen+Hell",
+            "name": "Last Caress/Green Hell",
+            "@attr": { "rank": 16 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./Am+I+Evil%3F",
+            "name": "Am I Evil?",
+            "@attr": { "rank": 17 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./Blitzkrieg",
+            "name": "Blitzkrieg",
+            "@attr": { "rank": 18 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 255,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./Breadfan",
+            "name": "Breadfan",
+            "@attr": { "rank": 19 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./The+Prince",
+            "name": "The Prince",
+            "@attr": { "rank": 20 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 175,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./Stone+Cold+Crazy",
+            "name": "Stone Cold Crazy",
+            "@attr": { "rank": 21 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 116,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./So+What",
+            "name": "So What",
+            "@attr": { "rank": 22 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./Killing+Time",
+            "name": "Killing Time",
+            "@attr": { "rank": 23 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 245,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./Overkill+-+Live+From+Whiskey+A+Go-Go,+Los+Angeles%2F+1995",
+            "name": "Overkill - Live From Whiskey A Go-Go, Los Angeles/ 1995",
+            "@attr": { "rank": 24 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 220,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./Damage+Case+-+Live+From+Whiskey+A+Go-Go,+Los+Angeles%2F+1995",
+            "name": "Damage Case - Live From Whiskey A Go-Go, Los Angeles/ 1995",
+            "@attr": { "rank": 25 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 291,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./Stone+Dead+Forever+-+Live+From+Whiskey+A+Go-Go,+Los+Angeles%2F+1995",
+            "name": "Stone Dead Forever - Live From Whiskey A Go-Go, Los Angeles/ 1995",
+            "@attr": { "rank": 26 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 192,
+            "url": "https://www.last.fm/music/Metallica/Garage+Inc./Too+Late+Too+Late+-+Live+From+Whiskey+A+Go-Go,+Los+Angeles%2F+1995",
+            "name": "Too Late Too Late - Live From Whiskey A Go-Go, Los Angeles/ 1995",
+            "@attr": { "rank": 27 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Metallica/Garage+Inc.",
+      "name": "Garage Inc.",
+      "listeners": "547032",
+      "wiki": {
+        "published": "08 Aug 2009, 07:33",
+        "summary": "Garage Inc. is a cover album by American heavy metal band Metallica, released in 1998. It includes recorded cover versions of other artists' songs, all of their b-side covers released up to that point, and the entire The $5.98 E.P.: Garage Days Re-Revisited, which had gone out of print since its original release in 1987. The title is a combination of Garage Days Re-Revisited and their song Damage, Inc. Over 5 million copies have been sold in the US as certified by the RIAA. <a href=\"https://www.last.fm/music/Metallica/Garage+Inc.\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Metallica",
+      "mbid": "157b29cd-3866-4fc4-b9e0-eb6c2a2d3044",
+      "tags": {
+        "tag": [
+          {
+            "url": "https://www.last.fm/tag/heavy+metal",
+            "name": "heavy metal"
+          },
+          {
+            "url": "https://www.last.fm/tag/thrash+metal",
+            "name": "thrash metal"
+          },
+          { "url": "https://www.last.fm/tag/metal", "name": "metal" },
+          { "url": "https://www.last.fm/tag/2003", "name": "2003" },
+          {
+            "url": "https://www.last.fm/tag/alternative+metal",
+            "name": "alternative metal"
+          }
+        ]
+      },
+      "playcount": "8703056",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/b282779061809b3dfda19ff25579a9ae.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/b282779061809b3dfda19ff25579a9ae.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/b282779061809b3dfda19ff25579a9ae.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/b282779061809b3dfda19ff25579a9ae.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/b282779061809b3dfda19ff25579a9ae.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/b282779061809b3dfda19ff25579a9ae.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 347,
+            "url": "https://www.last.fm/music/Metallica/St.+Anger/Frantic",
+            "name": "Frantic",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 432,
+            "url": "https://www.last.fm/music/Metallica/St.+Anger/St.+Anger",
+            "name": "St. Anger",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/St.+Anger/Some+Kind+of+Monster",
+            "name": "Some Kind of Monster",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 337,
+            "url": "https://www.last.fm/music/Metallica/St.+Anger/Dirty+Window",
+            "name": "Dirty Window",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/St.+Anger/Invisible+Kid",
+            "name": "Invisible Kid",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/St.+Anger/My+World",
+            "name": "My World",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/St.+Anger/Shoot+Me+Again",
+            "name": "Shoot Me Again",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/St.+Anger/Sweet+Amber",
+            "name": "Sweet Amber",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/St.+Anger/The+Unnamed+Feeling",
+            "name": "The Unnamed Feeling",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/St.+Anger/Purify",
+            "name": "Purify",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Metallica/St.+Anger/All+Within+My+Hands",
+            "name": "All Within My Hands",
+            "@attr": { "rank": 11 },
+            "artist": {
+              "url": "https://www.last.fm/music/Metallica",
+              "name": "Metallica",
+              "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Metallica/St.+Anger",
+      "name": "St. Anger",
+      "listeners": "432789",
+      "wiki": {
+        "published": "03 Mar 2010, 22:06",
+        "summary": "“St. Anger” is the eighth studio album by Metallica. Released on June 5, 2003, this album marks the longest time span between studio albums from Metallica, with the nearly six years between the release of “ReLoad” and “St. Anger.” It was also the first to receive a Parental Advisory label excluding Garage Inc. (a cover album), Live S**t: Binge and Purge (a live album), and S&M (also a live album). The album was originally intended for release on June 10, 2003, but was instead released five days earlier due to fear of unlicensed copying over filesharing networks. St. Anger received <a href=\"https://www.last.fm/music/Metallica/St.+Anger\">Read more on Last.fm</a>."
+      }
+    }
+  ]
+}

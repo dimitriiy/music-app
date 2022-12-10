@@ -1,0 +1,2005 @@
+{
+  "name": "Rainbow",
+  "mbid": "e3cb4543-210f-499a-b0d1-3882c312dfb9",
+  "bio": "Rainbow is the name of at least four bands:\n\n1. A British rock band.\n2. A K-Pop group (레인보우).\n3. A U.S. psychedelic rock band.\n4. Mid-80's Hi-NRG project.\n\n1. Rainbow was a British rock band formed by Deep Purple founder and former guitarist Ritchie Blackmore in 1975. In addition to Blackmore, the band originally consisted of former Elf lead singer Ronnie James Dio, bassist Craig Gruber, drummer Gary Driscoll, and keyboardist Micky Lee Soule. <a href=\"https://www.last.fm/music/Rainbow\">Read more on Last.fm</a>",
+  "tags": {
+    "tag": [
+      { "name": "hard rock", "url": "https://www.last.fm/tag/hard+rock" },
+      { "name": "classic rock", "url": "https://www.last.fm/tag/classic+rock" },
+      { "name": "heavy metal", "url": "https://www.last.fm/tag/heavy+metal" },
+      { "name": "rock", "url": "https://www.last.fm/tag/rock" },
+      { "name": "metal", "url": "https://www.last.fm/tag/metal" }
+    ]
+  },
+  "albums": [
+    {
+      "artist": "Rainbow",
+      "mbid": "3c79c62b-7a5c-4390-bbae-dc571b7b5610",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/hard+rock", "name": "hard rock" },
+          {
+            "url": "https://www.last.fm/tag/classic+rock",
+            "name": "classic rock"
+          },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          { "url": "https://www.last.fm/tag/rainbow", "name": "rainbow" },
+          {
+            "url": "https://www.last.fm/tag/heavy+metal",
+            "name": "heavy metal"
+          }
+        ]
+      },
+      "name": "The Very Best of Rainbow",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/6438cb63092fa13c706d9b4f649474cb.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/6438cb63092fa13c706d9b4f649474cb.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/6438cb63092fa13c706d9b4f649474cb.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/6438cb63092fa13c706d9b4f649474cb.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/6438cb63092fa13c706d9b4f649474cb.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/6438cb63092fa13c706d9b4f649474cb.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/The+Very+Best+of+Rainbow/Man+on+the+Silver+Mountain",
+            "name": "Man on the Silver Mountain",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/The+Very+Best+of+Rainbow/Catch+the+Rainbow",
+            "name": "Catch the Rainbow",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/The+Very+Best+of+Rainbow/Starstruck",
+            "name": "Starstruck",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/The+Very+Best+of+Rainbow/Stargazer",
+            "name": "Stargazer",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 268,
+            "url": "https://www.last.fm/music/Rainbow/The+Very+Best+of+Rainbow/Kill+the+King",
+            "name": "Kill the King",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 134,
+            "url": "https://www.last.fm/music/Rainbow/The+Very+Best+of+Rainbow/Long+Live+Rock+%27n%27+Roll",
+            "name": "Long Live Rock 'n' Roll",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/The+Very+Best+of+Rainbow/Gates+of+Babylon",
+            "name": "Gates of Babylon",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 194,
+            "url": "https://www.last.fm/music/Rainbow/The+Very+Best+of+Rainbow/Since+You+Been+Gone",
+            "name": "Since You Been Gone",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/The+Very+Best+of+Rainbow/All+Night+Long",
+            "name": "All Night Long",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 206,
+            "url": "https://www.last.fm/music/Rainbow/The+Very+Best+of+Rainbow/I+Surrender",
+            "name": "I Surrender",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/The+Very+Best+of+Rainbow/Can%27t+Happen+Here",
+            "name": "Can't Happen Here",
+            "@attr": { "rank": 11 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/The+Very+Best+of+Rainbow/Jealous+Lover",
+            "name": "Jealous Lover",
+            "@attr": { "rank": 12 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/The+Very+Best+of+Rainbow/Stone+Cold",
+            "name": "Stone Cold",
+            "@attr": { "rank": 13 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/The+Very+Best+of+Rainbow/Power",
+            "name": "Power",
+            "@attr": { "rank": 14 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/The+Very+Best+of+Rainbow/Can%27t+Let+You+Go",
+            "name": "Can't Let You Go",
+            "@attr": { "rank": 15 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/The+Very+Best+of+Rainbow/Street+of+Dreams",
+            "name": "Street of Dreams",
+            "@attr": { "rank": 16 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          }
+        ]
+      },
+      "listeners": "385083",
+      "playcount": "2211201",
+      "url": "https://www.last.fm/music/Rainbow/The+Very+Best+of+Rainbow",
+      "wiki": {}
+    },
+    {
+      "artist": "Rainbow",
+      "mbid": "03157a5a-72a6-4537-b58b-ed0782c24e48",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/hard+rock", "name": "hard rock" },
+          {
+            "url": "https://www.last.fm/tag/classic+rock",
+            "name": "classic rock"
+          },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          { "url": "https://www.last.fm/tag/rainbow", "name": "rainbow" },
+          {
+            "url": "https://www.last.fm/tag/heavy+metal",
+            "name": "heavy metal"
+          }
+        ]
+      },
+      "playcount": "3425538",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/09628988f5ed4ec588978aab1ca70394.png"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/09628988f5ed4ec588978aab1ca70394.png"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/09628988f5ed4ec588978aab1ca70394.png"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/09628988f5ed4ec588978aab1ca70394.png"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/09628988f5ed4ec588978aab1ca70394.png"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/09628988f5ed4ec588978aab1ca70394.png"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Ritchie+Blackmore%27s+Rainbow/Man+on+the+Silver+Mountain",
+            "name": "Man on the Silver Mountain",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Ritchie+Blackmore%27s+Rainbow/Self+Portrait",
+            "name": "Self Portrait",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Ritchie+Blackmore%27s+Rainbow/Black+Sheep+of+the+Family",
+            "name": "Black Sheep of the Family",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Ritchie+Blackmore%27s+Rainbow/Catch+the+Rainbow",
+            "name": "Catch the Rainbow",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Ritchie+Blackmore%27s+Rainbow/Snake+Charmer",
+            "name": "Snake Charmer",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Ritchie+Blackmore%27s+Rainbow/The+Temple+of+the+King",
+            "name": "The Temple of the King",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 156,
+            "url": "https://www.last.fm/music/Rainbow/Ritchie+Blackmore%27s+Rainbow/If+You+Don%27t+Like+Rock+%27n%27+Roll",
+            "name": "If You Don't Like Rock 'n' Roll",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Ritchie+Blackmore%27s+Rainbow/Sixteenth+Century+Greensleeves",
+            "name": "Sixteenth Century Greensleeves",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 324,
+            "url": "https://www.last.fm/music/Rainbow/Ritchie+Blackmore%27s+Rainbow/Still+I%27m+Sad",
+            "name": "Still I'm Sad",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Rainbow/Ritchie+Blackmore%27s+Rainbow",
+      "name": "Ritchie Blackmore's Rainbow",
+      "listeners": "281062",
+      "wiki": {
+        "published": "03 Mar 2009, 21:37",
+        "summary": "\"Ritchie Blackmore's Rainbow\" (1975) is the first album released by \"Rainbow\". It was recorded and released while lead guitarist Ritchie Blackmore was still a member of \"Deep Purple\". Lead vocalist Ronnie James Dio has called this his favourite Rainbow album. \"Elf\" had supported Deep Purple on the previous year's tour promoting the band's \"Burn\" album. This album marked the first collaboration between Dio and Blackmore, and it is essentially the lineup of Elf, Dio's previous band, with Blackmore instead of Steve Edwards. Blackmore would dismiss all the other Elf musicians and recruit new players for subsequent Rainbow albums. Several songs <a href=\"https://www.last.fm/music/Rainbow/Ritchie+Blackmore%27s+Rainbow\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Rainbow",
+      "mbid": "01b615df-6c4d-4576-8920-6097121e9c63",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/hard+rock", "name": "hard rock" },
+          {
+            "url": "https://www.last.fm/tag/classic+rock",
+            "name": "classic rock"
+          },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          { "url": "https://www.last.fm/tag/1976", "name": "1976" },
+          {
+            "url": "https://www.last.fm/tag/heavy+metal",
+            "name": "heavy metal"
+          }
+        ]
+      },
+      "playcount": "2315288",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/081d6f833385d2623c7d733e4fb0e181.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/081d6f833385d2623c7d733e4fb0e181.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/081d6f833385d2623c7d733e4fb0e181.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/081d6f833385d2623c7d733e4fb0e181.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/081d6f833385d2623c7d733e4fb0e181.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/081d6f833385d2623c7d733e4fb0e181.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Rising/Tarot+Woman",
+            "name": "Tarot Woman",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Rising/Run+With+the+Wolf",
+            "name": "Run With the Wolf",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Rising/Starstruck",
+            "name": "Starstruck",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Rising/Do+You+Close+Your+Eyes",
+            "name": "Do You Close Your Eyes",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Rising/Stargazer",
+            "name": "Stargazer",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Rising/A+Light+in+the+Black",
+            "name": "A Light in the Black",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Rainbow/Rising",
+      "name": "Rising",
+      "listeners": "210646",
+      "wiki": {
+        "published": "02 Feb 2009, 07:09",
+        "summary": "\"Rising\" is a hard rock album by Rainbow, released in 1976. Rising has become known as the best album of Rainbow's career. With founder Ritchie Blackmore retaining only Ronnie James Dio from the previous album, he recruited keyboard player Tony Carey, bassist Jimmy Bain and drummer Cozy Powell to complete the new line-up. Recorded in Munich in less than a month, the album was overseen by \"Deep Purple\" engineer and rock producer Martin Birch. The album marks Dio's first work with bassist Jimmy Bain. Bain would later play bass in Dio's solo band. The album showpiece is the 8 minute <a href=\"https://www.last.fm/music/Rainbow/Rising\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Rainbow",
+      "mbid": "25bbf601-8af6-316b-a54a-87a58b201bd8",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/hard+rock", "name": "hard rock" },
+          {
+            "url": "https://www.last.fm/tag/classic+rock",
+            "name": "classic rock"
+          },
+          { "url": "https://www.last.fm/tag/70s", "name": "70s" },
+          { "url": "https://www.last.fm/tag/1979", "name": "1979" },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" }
+        ]
+      },
+      "playcount": "1128006",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/adab59f2b5c24389c391831e941b5646.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/adab59f2b5c24389c391831e941b5646.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/adab59f2b5c24389c391831e941b5646.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/adab59f2b5c24389c391831e941b5646.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/adab59f2b5c24389c391831e941b5646.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/adab59f2b5c24389c391831e941b5646.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Down+to+Earth/All+Night+Long",
+            "name": "All Night Long",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 404,
+            "url": "https://www.last.fm/music/Rainbow/Down+to+Earth/Eyes+of+the+World",
+            "name": "Eyes of the World",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Down+to+Earth/No+Time+to+Lose",
+            "name": "No Time to Lose",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Down+to+Earth/Makin%27+Love",
+            "name": "Makin' Love",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 194,
+            "url": "https://www.last.fm/music/Rainbow/Down+to+Earth/Since+You+Been+Gone",
+            "name": "Since You Been Gone",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Down+to+Earth/Love%27s+No+Friend",
+            "name": "Love's No Friend",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Down+to+Earth/Danger+Zone",
+            "name": "Danger Zone",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 294,
+            "url": "https://www.last.fm/music/Rainbow/Down+to+Earth/Lost+in+Hollywood",
+            "name": "Lost in Hollywood",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Rainbow/Down+to+Earth",
+      "name": "Down to Earth",
+      "listeners": "154420",
+      "wiki": {
+        "published": "05 May 2014, 19:49",
+        "summary": "The first Rainbow album not to include Ronnie James Dio <a href=\"https://www.last.fm/music/Rainbow/Down+to+Earth\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Rainbow",
+      "mbid": "0f98f81c-866c-3d54-9e27-6618970f30b1",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/hard+rock", "name": "hard rock" },
+          {
+            "url": "https://www.last.fm/tag/classic+rock",
+            "name": "classic rock"
+          },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          {
+            "url": "https://www.last.fm/tag/heavy+metal",
+            "name": "heavy metal"
+          },
+          { "url": "https://www.last.fm/tag/70s", "name": "70s" }
+        ]
+      },
+      "playcount": "1482530",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/b18664f2192040ffbae13135aa67ffa6.png"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/b18664f2192040ffbae13135aa67ffa6.png"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/b18664f2192040ffbae13135aa67ffa6.png"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/b18664f2192040ffbae13135aa67ffa6.png"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/b18664f2192040ffbae13135aa67ffa6.png"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/b18664f2192040ffbae13135aa67ffa6.png"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 134,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+%27n%27+Roll/Long+Live+Rock+%27n%27+Roll",
+            "name": "Long Live Rock 'n' Roll",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+%27n%27+Roll/Lady+of+the+Lake",
+            "name": "Lady of the Lake",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+%27n%27+Roll/L.A.+Connection",
+            "name": "L.A. Connection",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+%27n%27+Roll/Gates+of+Babylon",
+            "name": "Gates of Babylon",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 268,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+%27n%27+Roll/Kill+the+King",
+            "name": "Kill the King",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+%27n%27+Roll/The+Shed+(Subtle)",
+            "name": "The Shed (Subtle)",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+%27n%27+Roll/Sensitive+to+Light",
+            "name": "Sensitive to Light",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+%27n%27+Roll/Rainbow+Eyes",
+            "name": "Rainbow Eyes",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+%27n%27+Roll",
+      "name": "Long Live Rock 'n' Roll",
+      "listeners": "126042",
+      "wiki": {
+        "published": "02 Feb 2009, 12:37",
+        "summary": "\"Long Live Rock 'n' Roll\" is the third studio album from Rainbow, released in 1978. Although Bob Daisley & David Stone are listed on the album credits for their contributions they joined the band part way through the recording sessions and only appear on a couple of tracks (Stone part wrote \"Gates of Babylon\" but was never credited). Blackmore played most of the bass parts himself for the album. \"Kill the King\" was already a staple part of the tour setlists, opening Rainbow concerts since mid-1976. It first appeared on the live album \"On Stage\" in 1977. The original vinyl <a href=\"https://www.last.fm/music/Rainbow/Long+Live+Rock+%27n%27+Roll\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Rainbow",
+      "mbid": "3fc32485-b2dd-4088-9f26-5d9b348d189c",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/hard+rock", "name": "hard rock" },
+          {
+            "url": "https://www.last.fm/tag/classic+rock",
+            "name": "classic rock"
+          },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          { "url": "https://www.last.fm/tag/rainbow", "name": "rainbow" },
+          {
+            "url": "https://www.last.fm/tag/heavy+metal",
+            "name": "heavy metal"
+          }
+        ]
+      },
+      "playcount": "941430",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/35f830a234e649bea46aa227b3525d7f.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/35f830a234e649bea46aa227b3525d7f.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/35f830a234e649bea46aa227b3525d7f.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/35f830a234e649bea46aa227b3525d7f.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/35f830a234e649bea46aa227b3525d7f.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/35f830a234e649bea46aa227b3525d7f.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 206,
+            "url": "https://www.last.fm/music/Rainbow/Difficult+to+Cure/I+Surrender",
+            "name": "I Surrender",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Difficult+to+Cure/Spotlight+Kid",
+            "name": "Spotlight Kid",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Difficult+to+Cure/No+Release",
+            "name": "No Release",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Difficult+to+Cure/Magic",
+            "name": "Magic",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 197,
+            "url": "https://www.last.fm/music/Rainbow/Difficult+to+Cure/Vielleicht+Das+Nachster+Mal",
+            "name": "Vielleicht Das Nachster Mal",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Difficult+to+Cure/Can%27t+Happen+Here",
+            "name": "Can't Happen Here",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Difficult+to+Cure/Freedom+Fighter",
+            "name": "Freedom Fighter",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Difficult+to+Cure/Midtown+Tunnel+Vision",
+            "name": "Midtown Tunnel Vision",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Difficult+to+Cure/Difficult+To+Cure",
+            "name": "Difficult To Cure",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Rainbow/Difficult+to+Cure",
+      "name": "Difficult to Cure",
+      "listeners": "108779",
+      "wiki": {
+        "published": "03 Mar 2009, 20:22",
+        "summary": "\"Difficult to Cure\" is the fifth album released by \"Rainbow\", in 1981, and marked a further commercialisation of the band's sound. In an interview in \"Sounds\" (July 25th 1981), a UK music paper, Blackmore openly stated his liking for \"Foreigner\" and erstwhile vocalist Ronnie James Dio has referred to this period of Rainbow as \"Foreigner Junior\". It is, however, a popular album with many fans, despite it being markedly different from the albums which preceded it. The album material was started with Graham Bonnet still in the band, getting as far as recording \"I Surrender\". Turner was recruited and sang <a href=\"https://www.last.fm/music/Rainbow/Difficult+to+Cure\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Rainbow",
+      "mbid": "05d33bd0-d17d-3631-8a41-2d23a7c2351d",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/hard+rock", "name": "hard rock" },
+          {
+            "url": "https://www.last.fm/tag/classic+rock",
+            "name": "classic rock"
+          },
+          { "url": "https://www.last.fm/tag/1983", "name": "1983" },
+          {
+            "url": "https://www.last.fm/tag/heavy+metal",
+            "name": "heavy metal"
+          },
+          {
+            "url": "https://www.last.fm/tag/instrumental",
+            "name": "instrumental"
+          }
+        ]
+      },
+      "playcount": "886906",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/1ba01a53973b4472c4af390c3897379e.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/1ba01a53973b4472c4af390c3897379e.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/1ba01a53973b4472c4af390c3897379e.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/1ba01a53973b4472c4af390c3897379e.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/1ba01a53973b4472c4af390c3897379e.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/1ba01a53973b4472c4af390c3897379e.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Bent+Out+of+Shape/Stranded",
+            "name": "Stranded",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Bent+Out+of+Shape/Can%27t+Let+You+Go",
+            "name": "Can't Let You Go",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Bent+Out+of+Shape/Fool+for+the+Night",
+            "name": "Fool for the Night",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Bent+Out+of+Shape/Fire+Dance",
+            "name": "Fire Dance",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Bent+Out+of+Shape/Anybody+There",
+            "name": "Anybody There",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Bent+Out+of+Shape/Desperate+Heart",
+            "name": "Desperate Heart",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Bent+Out+of+Shape/Street+of+Dreams",
+            "name": "Street of Dreams",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Bent+Out+of+Shape/Drinking+With+the+Devil",
+            "name": "Drinking With the Devil",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Bent+Out+of+Shape/Snowman",
+            "name": "Snowman",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Bent+Out+of+Shape/Make+Your+Move",
+            "name": "Make Your Move",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Rainbow/Bent+Out+of+Shape",
+      "name": "Bent Out of Shape",
+      "listeners": "86217",
+      "wiki": {
+        "published": "03 Mar 2009, 21:51",
+        "summary": "\"Bent out of Shape\" was the last studio album released by \"Rainbow\" before Ritchie Blackmore and Roger Glover took part in the \"Deep Purple\" reformation. It was originally released in 1983 as an LP and cassette. The first CD version to be released featured several longer edits compared to the vinyl version. It was recorded in \"Sweet Silence Studio\" in Copenhagen and took about 7 weeks. A remastered CD reissue was released in May 1999, which restored the artwork of the original release. This has two tracks of a longer duration than on the first US CD issue. This album <a href=\"https://www.last.fm/music/Rainbow/Bent+Out+of+Shape\">Read more on Last.fm</a>."
+      }
+    },
+    {
+      "artist": "Rainbow",
+      "mbid": "",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/hard+rock", "name": "hard rock" },
+          {
+            "url": "https://www.last.fm/tag/classic+rock",
+            "name": "classic rock"
+          },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          {
+            "url": "https://www.last.fm/tag/heavy+metal",
+            "name": "heavy metal"
+          },
+          { "url": "https://www.last.fm/tag/70s", "name": "70s" }
+        ]
+      },
+      "name": "Long Live Rock N Roll (Deluxe Edition)",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/fa4c7b53cda4b2720c0d58c31602a971.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/fa4c7b53cda4b2720c0d58c31602a971.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/fa4c7b53cda4b2720c0d58c31602a971.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/fa4c7b53cda4b2720c0d58c31602a971.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/fa4c7b53cda4b2720c0d58c31602a971.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/fa4c7b53cda4b2720c0d58c31602a971.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 134,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+N+Roll+(Deluxe+Edition)/Long+Live+Rock+%27n%27+Roll",
+            "name": "Long Live Rock 'n' Roll",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+N+Roll+(Deluxe+Edition)/Lady+of+the+Lake",
+            "name": "Lady of the Lake",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+N+Roll+(Deluxe+Edition)/L.A.+Connection",
+            "name": "L.A. Connection",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+N+Roll+(Deluxe+Edition)/Gates+of+Babylon",
+            "name": "Gates of Babylon",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 268,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+N+Roll+(Deluxe+Edition)/Kill+the+King",
+            "name": "Kill the King",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+N+Roll+(Deluxe+Edition)/The+Shed+(Subtle)",
+            "name": "The Shed (Subtle)",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+N+Roll+(Deluxe+Edition)/Sensitive+to+Light",
+            "name": "Sensitive to Light",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+N+Roll+(Deluxe+Edition)/Rainbow+Eyes",
+            "name": "Rainbow Eyes",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 230,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+N+Roll+(Deluxe+Edition)/Lady+Of+The+Lake+-+Rough+Mix",
+            "name": "Lady Of The Lake - Rough Mix",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 183,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+N+Roll+(Deluxe+Edition)/Sensitive+To+Light+-+Rough+Mix",
+            "name": "Sensitive To Light - Rough Mix",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 333,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+N+Roll+(Deluxe+Edition)/L.A.+Connection+-+Rough+Mix",
+            "name": "L.A. Connection - Rough Mix",
+            "@attr": { "rank": 11 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 267,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+N+Roll+(Deluxe+Edition)/Kill+The+King+-+Rough+Mix",
+            "name": "Kill The King - Rough Mix",
+            "@attr": { "rank": 12 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 216,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+N+Roll+(Deluxe+Edition)/The+Shed+(Subtle)+-+Rough+Mix",
+            "name": "The Shed (Subtle) - Rough Mix",
+            "@attr": { "rank": 13 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 259,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+N+Roll+(Deluxe+Edition)/Long+Live+Rock+%27N%27+Roll+-+Rough+Mix",
+            "name": "Long Live Rock 'N' Roll - Rough Mix",
+            "@attr": { "rank": 14 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 415,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+N+Roll+(Deluxe+Edition)/Rainbow+Eyes+-+Rough+Mix",
+            "name": "Rainbow Eyes - Rough Mix",
+            "@attr": { "rank": 15 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 416,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+N+Roll+(Deluxe+Edition)/Long+Live+Rock+N+Roll+-+L.A.+Rehearsal+%2F+1977",
+            "name": "Long Live Rock N Roll - L.A. Rehearsal / 1977",
+            "@attr": { "rank": 16 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 282,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+N+Roll+(Deluxe+Edition)/Kill+The+King+-+L.A.+Rehearsal+%2F+1977",
+            "name": "Kill The King - L.A. Rehearsal / 1977",
+            "@attr": { "rank": 17 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 211,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+N+Roll+(Deluxe+Edition)/Long+Live+Rock+N+Roll+-+Live+On+The+Don+Kirschner+Show+%2F+1978",
+            "name": "Long Live Rock N Roll - Live On The Don Kirschner Show / 1978",
+            "@attr": { "rank": 18 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 310,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+N+Roll+(Deluxe+Edition)/L.A.+Connection+-+Live+On+The+Don+Kirschner+Show+%2F+1978",
+            "name": "L.A. Connection - Live On The Don Kirschner Show / 1978",
+            "@attr": { "rank": 19 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 395,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+N+Roll+(Deluxe+Edition)/Gates+Of+Babylon+-+Live+On+The+Don+Kirschner+Show+%2F+1978",
+            "name": "Gates Of Babylon - Live On The Don Kirschner Show / 1978",
+            "@attr": { "rank": 20 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 311,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+N+Roll+(Deluxe+Edition)/L.A.+Connection+-+Live+On+The+Don+Kirschner+Show+%2F+1978+(Outtake+Version)",
+            "name": "L.A. Connection - Live On The Don Kirschner Show / 1978 (Outtake Version)",
+            "@attr": { "rank": 21 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 403,
+            "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+N+Roll+(Deluxe+Edition)/Gates+Of+Babylon+-+Live+On+The+Don+Kirschner+Show+%2F+1978+(Outtake+Version)",
+            "name": "Gates Of Babylon - Live On The Don Kirschner Show / 1978 (Outtake Version)",
+            "@attr": { "rank": 22 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          }
+        ]
+      },
+      "listeners": "67780",
+      "playcount": "578323",
+      "url": "https://www.last.fm/music/Rainbow/Long+Live+Rock+N+Roll+(Deluxe+Edition)",
+      "wiki": {}
+    },
+    {
+      "artist": "Rainbow",
+      "mbid": "",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/hard+rock", "name": "hard rock" },
+          {
+            "url": "https://www.last.fm/tag/classic+rock",
+            "name": "classic rock"
+          },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          { "url": "https://www.last.fm/tag/rainbow", "name": "rainbow" },
+          {
+            "url": "https://www.last.fm/tag/heavy+metal",
+            "name": "heavy metal"
+          }
+        ]
+      },
+      "name": "Down To Earth (Deluxe Edition)",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/96c6004165a1f1bd14c9080513def62f.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/96c6004165a1f1bd14c9080513def62f.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/96c6004165a1f1bd14c9080513def62f.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/96c6004165a1f1bd14c9080513def62f.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/96c6004165a1f1bd14c9080513def62f.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/96c6004165a1f1bd14c9080513def62f.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Down+To+Earth+(Deluxe+Edition)/All+Night+Long",
+            "name": "All Night Long",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 404,
+            "url": "https://www.last.fm/music/Rainbow/Down+To+Earth+(Deluxe+Edition)/Eyes+of+the+World",
+            "name": "Eyes of the World",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Down+To+Earth+(Deluxe+Edition)/No+Time+to+Lose",
+            "name": "No Time to Lose",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Down+To+Earth+(Deluxe+Edition)/Makin%27+Love",
+            "name": "Makin' Love",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 194,
+            "url": "https://www.last.fm/music/Rainbow/Down+To+Earth+(Deluxe+Edition)/Since+You+Been+Gone",
+            "name": "Since You Been Gone",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Down+To+Earth+(Deluxe+Edition)/Love%27s+No+Friend",
+            "name": "Love's No Friend",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Down+To+Earth+(Deluxe+Edition)/Danger+Zone",
+            "name": "Danger Zone",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 294,
+            "url": "https://www.last.fm/music/Rainbow/Down+To+Earth+(Deluxe+Edition)/Lost+in+Hollywood",
+            "name": "Lost in Hollywood",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Down+To+Earth+(Deluxe+Edition)/Bad+Girl",
+            "name": "Bad Girl",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 314,
+            "url": "https://www.last.fm/music/Rainbow/Down+To+Earth+(Deluxe+Edition)/Weiss+Heim",
+            "name": "Weiss Heim",
+            "@attr": { "rank": 10 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 284,
+            "url": "https://www.last.fm/music/Rainbow/Down+To+Earth+(Deluxe+Edition)/All+Night+Long+(Instrumental+Outtake)",
+            "name": "All Night Long (Instrumental Outtake)",
+            "@attr": { "rank": 11 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 412,
+            "url": "https://www.last.fm/music/Rainbow/Down+To+Earth+(Deluxe+Edition)/Eyes+of+the+World+(instrumental+outtake)",
+            "name": "Eyes of the World (instrumental outtake)",
+            "@attr": { "rank": 12 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 231,
+            "url": "https://www.last.fm/music/Rainbow/Down+To+Earth+(Deluxe+Edition)/Spark+Don%27t+Mean+A+Fire",
+            "name": "Spark Don't Mean A Fire",
+            "@attr": { "rank": 13 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 286,
+            "url": "https://www.last.fm/music/Rainbow/Down+To+Earth+(Deluxe+Edition)/Makin%27+Love+(Instrumental+Outtake)",
+            "name": "Makin' Love (Instrumental Outtake)",
+            "@attr": { "rank": 14 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 243,
+            "url": "https://www.last.fm/music/Rainbow/Down+To+Earth+(Deluxe+Edition)/Since+You+Been+Gone+(Instrumental+Outtake)",
+            "name": "Since You Been Gone (Instrumental Outtake)",
+            "@attr": { "rank": 15 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 298,
+            "url": "https://www.last.fm/music/Rainbow/Down+To+Earth+(Deluxe+Edition)/Ain%27t+A+Lot+Of+Love+In+The+Heart+Of+Me",
+            "name": "Ain't A Lot Of Love In The Heart Of Me",
+            "@attr": { "rank": 16 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 332,
+            "url": "https://www.last.fm/music/Rainbow/Down+To+Earth+(Deluxe+Edition)/Danger+Zone+(Instrumental+Outtake)",
+            "name": "Danger Zone (Instrumental Outtake)",
+            "@attr": { "rank": 17 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 243,
+            "url": "https://www.last.fm/music/Rainbow/Down+To+Earth+(Deluxe+Edition)/Lost+in+Hollywood+(instrumental+outtake)",
+            "name": "Lost in Hollywood (instrumental outtake)",
+            "@attr": { "rank": 18 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 304,
+            "url": "https://www.last.fm/music/Rainbow/Down+To+Earth+(Deluxe+Edition)/Bad+Girl+(Instrumental+Outtake)",
+            "name": "Bad Girl (Instrumental Outtake)",
+            "@attr": { "rank": 19 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 322,
+            "url": "https://www.last.fm/music/Rainbow/Down+To+Earth+(Deluxe+Edition)/Ain%27t+A+Lot+Of+Love+In+The+Heart+Of+Me+(Alternative+Outtake)",
+            "name": "Ain't A Lot Of Love In The Heart Of Me (Alternative Outtake)",
+            "@attr": { "rank": 20 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 371,
+            "url": "https://www.last.fm/music/Rainbow/Down+To+Earth+(Deluxe+Edition)/Eyes+Of+The+World+(Instrumental+Outtake+Take+2)",
+            "name": "Eyes Of The World (Instrumental Outtake Take 2)",
+            "@attr": { "rank": 21 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 235,
+            "url": "https://www.last.fm/music/Rainbow/Down+To+Earth+(Deluxe+Edition)/All+Night+Long+(Cozy+Powell+Mix)",
+            "name": "All Night Long (Cozy Powell Mix)",
+            "@attr": { "rank": 22 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          }
+        ]
+      },
+      "listeners": "64038",
+      "playcount": "325596",
+      "url": "https://www.last.fm/music/Rainbow/Down+To+Earth+(Deluxe+Edition)",
+      "wiki": {}
+    },
+    {
+      "artist": "Rainbow",
+      "mbid": "08474206-7738-4135-96b6-0ef3d9f7d8fa",
+      "tags": {
+        "tag": [
+          { "url": "https://www.last.fm/tag/hard+rock", "name": "hard rock" },
+          {
+            "url": "https://www.last.fm/tag/classic+rock",
+            "name": "classic rock"
+          },
+          { "url": "https://www.last.fm/tag/rock", "name": "rock" },
+          { "url": "https://www.last.fm/tag/rainbow", "name": "rainbow" },
+          {
+            "url": "https://www.last.fm/tag/heavy+metal",
+            "name": "heavy metal"
+          }
+        ]
+      },
+      "playcount": "558402",
+      "image": [
+        {
+          "size": "small",
+          "text": "https://lastfm.freetls.fastly.net/i/u/34s/d834451fc79de7802f6c292b054ad218.jpg"
+        },
+        {
+          "size": "medium",
+          "text": "https://lastfm.freetls.fastly.net/i/u/64s/d834451fc79de7802f6c292b054ad218.jpg"
+        },
+        {
+          "size": "large",
+          "text": "https://lastfm.freetls.fastly.net/i/u/174s/d834451fc79de7802f6c292b054ad218.jpg"
+        },
+        {
+          "size": "extralarge",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/d834451fc79de7802f6c292b054ad218.jpg"
+        },
+        {
+          "size": "mega",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/d834451fc79de7802f6c292b054ad218.jpg"
+        },
+        {
+          "size": "",
+          "text": "https://lastfm.freetls.fastly.net/i/u/300x300/d834451fc79de7802f6c292b054ad218.jpg"
+        }
+      ],
+      "tracks": {
+        "track": [
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Straight+Between+the+Eyes/Death+Alley+Driver",
+            "name": "Death Alley Driver",
+            "@attr": { "rank": 1 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Straight+Between+the+Eyes/Stone+Cold",
+            "name": "Stone Cold",
+            "@attr": { "rank": 2 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Straight+Between+the+Eyes/Bring+on+the+Night+(Dream+Chaser)",
+            "name": "Bring on the Night (Dream Chaser)",
+            "@attr": { "rank": 3 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Straight+Between+the+Eyes/Tite+Squeeze",
+            "name": "Tite Squeeze",
+            "@attr": { "rank": 4 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": 242,
+            "url": "https://www.last.fm/music/Rainbow/Straight+Between+the+Eyes/Tearin+Out+My+Heart",
+            "name": "Tearin Out My Heart",
+            "@attr": { "rank": 5 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Straight+Between+the+Eyes/Power",
+            "name": "Power",
+            "@attr": { "rank": 6 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Straight+Between+the+Eyes/Miss+Mistreated",
+            "name": "Miss Mistreated",
+            "@attr": { "rank": 7 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Straight+Between+the+Eyes/Rock+Fever",
+            "name": "Rock Fever",
+            "@attr": { "rank": 8 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          },
+          {
+            "streamable": { "fulltrack": "0", "text": "0" },
+            "duration": null,
+            "url": "https://www.last.fm/music/Rainbow/Straight+Between+the+Eyes/Eyes+of+Fire",
+            "name": "Eyes of Fire",
+            "@attr": { "rank": 9 },
+            "artist": {
+              "url": "https://www.last.fm/music/Rainbow",
+              "name": "Rainbow",
+              "mbid": ""
+            }
+          }
+        ]
+      },
+      "url": "https://www.last.fm/music/Rainbow/Straight+Between+the+Eyes",
+      "name": "Straight Between the Eyes",
+      "listeners": "61530",
+      "wiki": {
+        "published": "03 Mar 2009, 20:05",
+        "summary": "\"Straight Between the Eyes\" is the sixth LP released by \"Rainbow\", released in 1982. A remastered CD reissue, with packaging duplicating the original vinyl release, was released in May 1999. The band line-up was the same as had recorded the previous year's \"Difficult to Cure\" album, with the exception of David Rosenthal, who replaced Don Airey on keyboards. The title allegedly came from a phrase from Jeff Beck, describing Jimi Hendrix to Blackmore. In an April 1982 interview with British Rock magazine Kerrang!, Blackmore stated of \"MISS Mistreated\", \"Well, it's to avoid confusion that the 'Miss' is written three times <a href=\"https://www.last.fm/music/Rainbow/Straight+Between+the+Eyes\">Read more on Last.fm</a>."
+      }
+    }
+  ]
+}
